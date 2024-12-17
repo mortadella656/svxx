@@ -1622,3 +1622,24 @@ BCLib - The End  BiomeSource (3223b52b)
 [17Dec2024 04:14:14.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3916, y=75, z=-1357} BlockPos{x=-3915, y=73, z=-1356}
 [17Dec2024 04:14:18.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [A Strange Grave Dust]
 [17Dec2024 04:14:44.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3918, y=77, z=-1362} BlockPos{x=-3919, y=76, z=-1362}
+[17Dec2024 04:36:13.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ lost connection: Timed out
+[17Dec2024 04:36:13.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ left the game
+[17Dec2024 04:36:32.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LennoxZ[/100.116.177.38:59460] logged in with entity id 16064 at (-3902.03409581712, 76.0, -1497.9045992525632)
+[17Dec2024 04:36:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
+[17Dec2024 04:36:33.481] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[17Dec2024 04:36:33.482] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[17Dec2024 04:36:33.482] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[17Dec2024 04:36:33.483] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[17Dec2024 04:36:33.483] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[17Dec2024 04:36:33.483] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[17Dec2024 04:36:33.483] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[17Dec2024 04:36:33.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[17Dec2024 04:36:33.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[17Dec2024 04:36:33.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[17Dec2024 04:36:33.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
+[17Dec2024 05:04:35.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [A Shower "Experience"]
+[17Dec2024 05:08:41.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3866, y=70, z=-1583} BlockPos{x=-3865, y=70, z=-1583}
+[17Dec2024 05:08:41.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3866, y=70, z=-1583} BlockPos{x=-3865, y=70, z=-1583}
+[17Dec2024 05:08:41.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3866, y=70, z=-1583} BlockPos{x=-3865, y=70, z=-1583}
+[17Dec2024 05:08:41.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3866, y=70, z=-1583} BlockPos{x=-3865, y=70, z=-1583}
+[17Dec2024 05:08:41.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3866, y=70, z=-1583} BlockPos{x=-3865, y=70, z=-1583}
