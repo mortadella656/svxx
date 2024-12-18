@@ -4882,6 +4882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 05:01:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-18 03:57:45 +0000"
