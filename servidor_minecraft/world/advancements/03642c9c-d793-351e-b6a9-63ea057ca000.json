@@ -4078,6 +4078,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-18 04:21:39 +0000",
+      "minecraft:spider": "2024-12-18 04:23:50 +0000",
       "minecraft:creeper": "2024-12-17 04:09:59 +0000",
       "minecraft:zombie": "2024-12-17 04:13:36 +0000"
     },
@@ -4527,6 +4528,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-12-18 04:31:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2024-12-18 04:14:24 +0000"
@@ -4542,6 +4549,12 @@
   "createdeco:recipes/decorations/cyan_placard": {
     "criteria": {
       "has_item": "2024-12-18 04:14:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -4593,9 +4606,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shutter": {
     "criteria": {
       "has_slab": "2024-12-18 03:58:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/copper_cup": {
+    "criteria": {
+      "has_copper": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -4641,6 +4672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2024-12-18 04:16:29 +0000"
@@ -4671,9 +4708,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-18 04:14:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -4692,6 +4741,12 @@
   "createdeco:recipes/decorations/blue_iron_lamp": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -4725,15 +4780,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
     },
     "done": true
   },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_right": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -4746,6 +4819,12 @@
   "createdeco:recipes/decorations/blue_brass_lamp": {
     "criteria": {
       "has_item": "2024-12-18 04:14:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -4851,6 +4930,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/brass_window": {
     "criteria": {
       "has_item": "2024-12-18 04:14:24 +0000"
@@ -4860,6 +4957,24 @@
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2024-12-18 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-18 04:32:01 +0000"
     },
     "done": true
   },
@@ -4893,9 +5008,27 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-12-18 04:31:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2024-12-18 04:14:24 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/copper_window": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_door": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -4917,6 +5050,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 04:23:52 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_catwalk_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-18 04:14:24 +0000"
@@ -4929,15 +5068,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-12-18 04:31:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/semaphore": {
     "criteria": {
       "has_item": "2024-12-18 04:16:29 +0000"
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2024-12-18 04:31:47 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/black_placard": {
     "criteria": {
       "has_item": "2024-12-18 04:14:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -4959,6 +5128,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down_right": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
@@ -4968,6 +5143,18 @@
   "createdeco:recipes/decorations/green_shipping_container": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-18 04:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -4983,6 +5170,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2024-12-18 04:31:47 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/orange_placard": {
     "criteria": {
       "has_item": "2024-12-18 04:14:36 +0000"
@@ -4995,15 +5194,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-18 04:32:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down_left": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_sheet_metal": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/copper_carrot": {
+    "criteria": {
+      "has_copper": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -5055,9 +5284,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-18 03:58:08 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -5088,6 +5329,12 @@
   "createdeco:recipes/decorations/brass_support": {
     "criteria": {
       "has_item": "2024-12-18 04:14:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-12-18 04:31:47 +0000"
     },
     "done": true
   },
@@ -5127,6 +5374,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 04:32:01 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/red_iron_lamp": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
@@ -5151,6 +5404,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/pink_shipping_container": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
@@ -5166,6 +5431,12 @@
   "createdeco:recipes/decorations/brass_support_wedge_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-18 04:14:24 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -5190,6 +5461,12 @@
   "createdeco:recipes/decorations/yellow_brass_lamp": {
     "criteria": {
       "has_item": "2024-12-18 04:14:36 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -5223,6 +5500,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-12-18 04:31:47 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/black_shipping_container": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
@@ -5232,6 +5521,18 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-18 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
@@ -5250,6 +5551,18 @@
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2024-12-18 04:14:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-12-18 04:27:49 +0000"
     },
     "done": true
   },
@@ -5280,6 +5593,12 @@
   "createdeco:recipes/decorations/iron_mesh_fence": {
     "criteria": {
       "has_item": "2024-12-18 04:08:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 04:30:21 +0000"
     },
     "done": true
   },
