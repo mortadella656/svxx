@@ -5350,6 +5350,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-18 05:07:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2024-12-18 04:14:11 +0000"
@@ -5416,6 +5422,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2024-12-18 05:07:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2024-12-18 04:30:21 +0000"
@@ -5473,6 +5485,12 @@
   "miners_delight:recipes/decorations/copper_pot": {
     "criteria": {
       "has_copper": "2024-12-18 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-18 05:07:11 +0000"
     },
     "done": true
   },
