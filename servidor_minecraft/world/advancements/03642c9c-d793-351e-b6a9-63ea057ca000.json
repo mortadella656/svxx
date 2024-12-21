@@ -5681,6 +5681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 07:08:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-21 05:52:39 +0000"
@@ -5705,6 +5711,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
@@ -5714,6 +5732,12 @@
   "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
     },
     "done": true
   },
@@ -5753,6 +5777,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 07:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-21 06:59:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-21 05:52:39 +0000"
@@ -5774,6 +5810,12 @@
   "createdeco:recipes/decorations/cyan_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-12-21 07:09:46 +0000"
     },
     "done": true
   },
@@ -5801,6 +5843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-21 06:59:52 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-21 06:13:51 +0000"
@@ -5813,6 +5861,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
@@ -5822,6 +5876,30 @@
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2024-12-21 05:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-12-21 07:11:56 +0000"
     },
     "done": true
   },
@@ -5873,6 +5951,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-21 07:09:46 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-21 06:13:51 +0000"
@@ -5888,6 +5978,12 @@
   "createdeco:recipes/decorations/blue_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-21 06:59:52 +0000"
     },
     "done": true
   },
@@ -5927,6 +6023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-21 07:08:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2024-12-21 06:36:14 +0000"
@@ -5945,9 +6047,21 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-12-21 07:12:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-12-21 06:49:41 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
     },
     "done": true
   },
@@ -6059,6 +6173,12 @@
     },
     "done": true
   },
+  "wildberries:berry": {
+    "criteria": {
+      "berry": "2024-12-21 07:00:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2024-12-21 06:13:37 +0000"
@@ -6068,6 +6188,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-21 07:09:46 +0000"
     },
     "done": true
   },
@@ -6092,6 +6218,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
     },
     "done": true
   },

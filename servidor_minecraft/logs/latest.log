@@ -1605,3 +1605,5 @@ BCLib - The End  BiomeSource (44d7db23)
 [21Dec2024 06:07:03.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Complex Curiosities]
 [21Dec2024 06:10:36.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Bonk!]
 [21Dec2024 06:49:42.963] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3889, y=72, z=-1484} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[21Dec2024 07:00:11.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Berry Nice]
+[21Dec2024 07:04:55.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 7.385588873904453,-7.15586937510858,2.388958824192514
