@@ -5717,6 +5717,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-21 07:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
@@ -5759,15 +5771,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-21 07:25:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-21 05:52:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/purple_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
     },
     "done": true
   },
@@ -5789,9 +5825,21 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/item_shelf_bamboo": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-21 06:59:52 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_chair": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
     },
     "done": true
   },
@@ -5819,9 +5867,27 @@
     },
     "done": true
   },
+  "another_furniture:recipes/bamboo_table": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
   "create:rose_quartz": {
     "criteria": {
       "0": "2024-12-21 07:09:46 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_bench": {
+    "criteria": {
+      "has_slab": "2024-12-21 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/sled_bamboo": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
     },
     "done": true
   },
@@ -5834,6 +5900,18 @@
   "create:speed_controller": {
     "criteria": {
       "0": "2024-12-21 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
     },
     "done": true
   },
@@ -5873,6 +5951,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
@@ -5894,6 +5978,18 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2024-12-21 07:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
     },
     "done": true
   },
@@ -5930,6 +6026,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
     },
     "done": true
   },
@@ -5975,6 +6077,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_bamboo": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/light_blue_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-21 06:13:51 +0000"
@@ -5996,6 +6104,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-21 07:38:12 +0000"
     },
     "done": true
   },
@@ -6029,6 +6143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-12-21 07:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-21 07:08:32 +0000"
@@ -6044,6 +6164,18 @@
   "betterend:recipes/misc/copy_aeternium_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2024-12-21 07:35:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
     },
     "done": true
   },
@@ -6077,9 +6209,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2024-12-21 07:34:22 +0000"
     },
     "done": true
   },
@@ -6149,6 +6293,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/tined_glass_from_smaragdant": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
@@ -6179,6 +6335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
   "wildberries:berry": {
     "criteria": {
       "berry": "2024-12-21 07:00:11 +0000"
@@ -6188,6 +6350,18 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2024-12-21 06:13:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_bamboo": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-12-21 07:51:23 +0000"
     },
     "done": true
   },
