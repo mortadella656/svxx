@@ -1591,3 +1591,16 @@ BCLib - The End  BiomeSource (44d7db23)
 [21Dec2024 05:17:22.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
 [21Dec2024 05:17:57.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 1.73021267447848,-9.624524347364314,3.742415857640026
 [21Dec2024 05:34:12.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4060, y=69, z=-1718} BlockPos{x=-4062, y=69, z=-1718}
+[21Dec2024 05:44:27.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4055, y=70, z=-1714} BlockPos{x=-4055, y=69, z=-1714}
+[21Dec2024 05:48:28.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Diamonds!]
+[21Dec2024 05:48:45.764] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3889, y=72, z=-1480} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[21Dec2024 05:48:45.776] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3888, y=72, z=-1484} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[21Dec2024 05:57:44.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Applied enchantment Silk Touch to LennoxZ's item]
+[21Dec2024 05:58:17.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4055, y=70, z=-1714} BlockPos{x=-4056, y=70, z=-1714}
+[21Dec2024 05:58:17.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4055, y=70, z=-1714} BlockPos{x=-4056, y=70, z=-1714}
+[21Dec2024 05:58:17.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4055, y=70, z=-1714} BlockPos{x=-4056, y=70, z=-1714}
+[21Dec2024 05:59:12.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4054, y=69, z=-1715} BlockPos{x=-4056, y=69, z=-1715}
+[21Dec2024 05:59:15.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4053, y=69, z=-1715} BlockPos{x=-4048, y=69, z=-1715}
+[21Dec2024 05:59:15.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4049, y=69, z=-1715} BlockPos{x=-4048, y=69, z=-1715}
+[21Dec2024 06:07:03.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Complex Curiosities]
+[21Dec2024 06:10:36.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Bonk!]
