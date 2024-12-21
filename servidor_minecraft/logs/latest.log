@@ -1590,3 +1590,4 @@ BCLib - The End  BiomeSource (44d7db23)
 [21Dec2024 05:17:22.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [21Dec2024 05:17:22.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
 [21Dec2024 05:17:57.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 1.73021267447848,-9.624524347364314,3.742415857640026
+[21Dec2024 05:34:12.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4060, y=69, z=-1718} BlockPos{x=-4062, y=69, z=-1718}
