@@ -1576,3 +1576,7 @@ BCLib - The End  BiomeSource (1ff4b3da)
 [24Dec2024 03:51:49.577] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
 [24Dec2024 03:52:42.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -0.8653039064483892,2.3821131359057404,-10.094292541607956
 [24Dec2024 03:52:53.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 9.695615978488604,2.376415669390582,-2.9908118286182344
+[24Dec2024 03:56:54.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4057, y=76, z=-1713} BlockPos{x=-4058, y=76, z=-1714}
+[24Dec2024 03:56:54.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4058, y=75, z=-1713} BlockPos{x=-4058, y=76, z=-1714}
+[24Dec2024 03:56:59.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4057, y=73, z=-1715} BlockPos{x=-4057, y=74, z=-1714}
+[24Dec2024 03:58:25.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -0.38847431254862386,3.709642592064057,-9.515514526688548
