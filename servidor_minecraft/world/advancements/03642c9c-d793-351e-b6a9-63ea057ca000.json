@@ -5639,24 +5639,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2024-12-21 07:20:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
-  "create:glass_pipe": {
-    "criteria": {
-      "0": "2024-12-21 06:49:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-21 05:48:28 +0000"
@@ -5669,45 +5651,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/track_switch_brass": {
-    "criteria": {
-      "has_item": "2024-12-21 06:07:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
-    "criteria": {
-      "has_item": "2024-12-21 06:20:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2024-12-21 07:08:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2024-12-21 06:13:37 +0000"
     },
     "done": true
   },
@@ -5717,27 +5663,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_fence": {
+  "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
+      "has_diamond": "2024-12-21 05:48:28 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/bamboo_shutter": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "has_slab": "2024-12-21 07:38:12 +0000"
+      "has_diamond": "2024-12-21 05:48:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+  "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+      "has_diamond": "2024-12-21 05:48:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tinted_glass": {
+  "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+      "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 05:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-21 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-21 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-21 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-21 05:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-21 05:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-21 05:52:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-21 05:52:39 +0000"
     },
     "done": true
   },
@@ -5747,99 +5783,15 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flute": {
-    "criteria": {
-      "has_bamboo": "2024-12-21 07:11:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/orange_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2024-12-21 07:25:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_slab": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/purple_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_button": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/flower_box": {
-    "criteria": {
-      "has_podzol": "2024-12-21 05:58:23 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/electron_tube": {
-    "criteria": {
-      "has_the_recipe": "2024-12-21 07:10:39 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_bamboo": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2024-12-21 06:59:52 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/bamboo_chair": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
     },
     "done": true
   },
@@ -5861,57 +5813,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/cyan_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/bamboo_table": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
-  "create:rose_quartz": {
-    "criteria": {
-      "0": "2024-12-21 07:09:46 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/bamboo_bench": {
-    "criteria": {
-      "has_slab": "2024-12-21 07:38:12 +0000"
-    },
-    "done": true
-  },
-  "snowyspirit:recipes/decorations/sled_bamboo": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
-  "create:speed_controller": {
-    "criteria": {
-      "0": "2024-12-21 06:10:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/canvas": {
-    "criteria": {
-      "has_straw": "2024-12-21 07:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_sign": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
     },
     "done": true
   },
@@ -5921,123 +5825,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-12-21 06:59:52 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/crystal_display": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
-    "criteria": {
-      "has_straw": "2024-12-21 07:51:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
-    "criteria": {
-      "has_item": "2024-12-21 05:52:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2024-12-21 07:11:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2024-12-21 07:11:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp": {
-    "criteria": {
-      "has_dried_kelp_block": "2024-12-21 07:11:56 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/lime_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/red_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/tools/lead_from_straw": {
-    "criteria": {
-      "has_straw": "2024-12-21 07:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-21 05:51:44 +0000"
     },
     "done": true
   },
@@ -6059,219 +5855,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2024-12-21 07:09:46 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_bamboo": {
-    "criteria": {
-      "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/light_blue_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/blue_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-21 06:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/bamboo_flower_box": {
-    "criteria": {
-      "has_slab": "2024-12-21 07:38:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-21 05:51:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2024-12-21 05:51:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
     },
     "done": true
   },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2024-12-21 06:10:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
-    "criteria": {
-      "has_bamboo_slab": "2024-12-21 07:38:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-21 07:08:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2024-12-21 06:36:14 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/copy_aeternium_upgrade": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "create:compacting": {
-    "criteria": {
-      "0": "2024-12-21 07:35:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/rope": {
-    "criteria": {
-      "has_straw": "2024-12-21 07:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "create:belt": {
-    "criteria": {
-      "0": "2024-12-21 07:12:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2024-12-21 06:49:41 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/bug_net": {
-    "criteria": {
-      "has_bamboo": "2024-12-21 07:11:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/straw_bale": {
-    "criteria": {
-      "has_straw": "2024-12-21 07:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/fuel_tank": {
-    "criteria": {
-      "has_item": "2024-12-21 07:34:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/white_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/copy_netherite_upgrade": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/gray_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:experimental": {
-    "criteria": {
-      "builtin": "2024-12-21 05:53:02 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/light_gray_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/black_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2024-12-21 06:36:14 +0000"
     },
     "done": true
   },
@@ -6287,9 +5879,453 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2024-12-21 05:52:39 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2024-12-21 05:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-21 05:52:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-21 05:52:39 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2024-12-21 05:53:02 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_box": {
+    "criteria": {
+      "has_podzol": "2024-12-21 05:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-21 06:00:08 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2024-12-21 06:07:03 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2024-12-21 06:07:03 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-12-21 06:07:03 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-12-21 06:10:36 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-12-21 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-21 06:13:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:37 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/white_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2024-12-21 06:20:08 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2024-12-21 06:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 06:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-21 06:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2024-12-21 06:49:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-21 06:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-21 06:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-21 06:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-21 06:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-21 06:59:52 +0000"
+    },
+    "done": true
+  },
+  "wildberries:berry": {
+    "criteria": {
+      "berry": "2024-12-21 07:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 07:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-21 07:08:32 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-12-21 07:09:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-21 07:09:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-21 07:09:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 07:10:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 07:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-12-21 07:11:56 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-12-21 07:12:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-21 07:20:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-21 07:25:44 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2024-12-21 07:34:22 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2024-12-21 07:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_bamboo": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_chair": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_table": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/sled_bamboo": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_bamboo": {
+    "criteria": {
+      "has_planks": "2024-12-21 07:38:05 +0000"
     },
     "done": true
   },
@@ -6305,51 +6341,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/tined_glass_from_smaragdant": {
-    "criteria": {
-      "has_glass": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_shipping_container_from_dyeing_vaults": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:51 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/remote_lens": {
-    "criteria": {
-      "has_item": "2024-12-21 06:07:03 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/wine_box": {
-    "criteria": {
-      "has_glass": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/tools/diamond_machete": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-21 07:38:05 +0000"
-    },
-    "done": true
-  },
-  "wildberries:berry": {
-    "criteria": {
-      "berry": "2024-12-21 07:00:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:37 +0000"
     },
     "done": true
   },
@@ -6359,57 +6353,69 @@
     },
     "done": true
   },
+  "another_furniture:recipes/bamboo_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-21 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_bench": {
+    "criteria": {
+      "has_slab": "2024-12-21 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-21 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-12-21 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2024-12-21 07:51:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2024-12-21 07:51:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+  "farmersdelight:main/place_organic_compost": {
     "criteria": {
-      "has_glass": "2024-12-21 05:52:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2024-12-21 07:09:46 +0000"
-    },
-    "done": true
-  },
-  "create:portable_storage_interface": {
-    "criteria": {
-      "0": "2024-12-21 06:26:28 +0000"
-    },
-    "done": true
-  },
-  "create:precision_mechanism": {
-    "criteria": {
-      "0": "2024-12-21 06:07:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
-    "criteria": {
-      "has_item": "2024-12-21 06:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2024-12-21 05:48:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2024-12-21 07:11:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2024-12-21 05:52:39 +0000"
+      "place_organic_compost": "2024-12-21 07:56:36 +0000"
     },
     "done": true
   },
