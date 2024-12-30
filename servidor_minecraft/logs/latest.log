@@ -1592,3 +1592,37 @@ BCLib - The End  BiomeSource (44d7db23)
 [30Dec2024 02:26:33.550] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
 [30Dec2024 02:44:43.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved wrongly!
 [30Dec2024 02:50:15.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [We Need to Go Deeper]
+[30Dec2024 03:05:35.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved wrongly!
+[30Dec2024 03:09:16.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved wrongly!
+[30Dec2024 03:15:26.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LennoxZ> -108 -440
+[30Dec2024 03:15:34.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 6.883087544713362,3.203609228602005,6.71194907057793
+[30Dec2024 03:15:40.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -0.945317214825991,4.687966758264267,-8.827875605556983
+[30Dec2024 03:15:43.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -1.3728760834310378,-10.033932323926322,2.31205408745177
+[30Dec2024 03:16:32.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 10.352682237076351,1.114437252554005,-0.6690563447937734
+[30Dec2024 03:19:57.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12523ms or 250 ticks behind
+[30Dec2024 03:20:35.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved wrongly!
+[30Dec2024 03:20:38.056] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-853, y=30, z=-3312}
+[30Dec2024 03:21:56.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -10.529353939617636,-0.04082873210734306,-0.11861390778449277
+[30Dec2024 03:24:43.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3928, y=61, z=-1469} BlockPos{x=-3928, y=62, z=-1469}
+[30Dec2024 03:24:43.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3928, y=61, z=-1469} BlockPos{x=-3928, y=62, z=-1469}
+[30Dec2024 03:32:41.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Mine? Mine? Mine?]
+[30Dec2024 03:32:55.752] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4681, y=-11, z=-1166}
+[30Dec2024 03:32:55.753] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4681, y=-11, z=-1168}
+[30Dec2024 03:32:57.215] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4716, y=-20, z=-1128}
+[30Dec2024 03:32:57.215] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4717, y=-20, z=-1128}
+[30Dec2024 03:33:48.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -8.80604640481215,3.374996066326162,3.8517558237294907
+[30Dec2024 03:34:09.113] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4862, y=17, z=-1506}
+[30Dec2024 03:34:14.375] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4835, y=25, z=-1546}
+[30Dec2024 03:34:23.518] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4766, y=-41, z=-1684}
+[30Dec2024 03:34:28.763] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4797, y=10, z=-1734}
+[30Dec2024 03:34:49.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 8.818371880998711,3.748830113944493,-4.672731319405557
+[30Dec2024 03:34:59.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 10.443255467996096,0.5409252916977607,0.7516244586454377
+[30Dec2024 03:36:10.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 0.035830271411668946,-10.826579138340477,2.557624765340279
+[30Dec2024 03:36:28.426] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4129, y=29, z=-798}
+[30Dec2024 03:36:32.224] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4021, y=-38, z=-740}
+[30Dec2024 03:36:35.471] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3558, y=1, z=-979}
+[30Dec2024 03:36:35.471] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3557, y=1, z=-979}
+[30Dec2024 03:36:37.534] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3534, y=-52, z=-994}
+[30Dec2024 03:36:37.535] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3536, y=-52, z=-994}
+[30Dec2024 03:37:11.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 4.38149894610342,3.7500001482992644,-8.702762811739376
+[30Dec2024 03:37:22.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -1.084297434043492,0.40940020316500636,-10.679682762599441
