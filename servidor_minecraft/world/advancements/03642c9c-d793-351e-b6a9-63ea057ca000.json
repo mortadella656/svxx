@@ -7316,6 +7316,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/red_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-30 06:52:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-30 05:58:37 +0000"
@@ -7334,9 +7340,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-30 06:52:15 +0000"
+    },
+    "done": true
+  },
   "create:burner": {
     "criteria": {
       "0": "2024-12-30 05:56:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-30 06:52:15 +0000"
     },
     "done": true
   },
@@ -7352,9 +7370,39 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2024-12-30 06:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-30 05:58:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_apron": {
+    "criteria": {
+      "has_red_wool": "2024-12-30 06:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-30 06:52:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2024-12-30 06:52:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-30 06:52:15 +0000"
     },
     "done": true
   },
@@ -7370,9 +7418,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/red_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-30 06:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-30 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-30 06:52:15 +0000"
     },
     "done": true
   },
@@ -7391,6 +7451,12 @@
   "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2024-12-30 06:05:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_stool": {
+    "criteria": {
+      "has_wool": "2024-12-30 06:52:15 +0000"
     },
     "done": true
   },
