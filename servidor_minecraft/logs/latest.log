@@ -1590,3 +1590,5 @@ BCLib - The End  BiomeSource (44d7db23)
 [30Dec2024 02:26:33.549] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [30Dec2024 02:26:33.549] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [30Dec2024 02:26:33.550] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
+[30Dec2024 02:44:43.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved wrongly!
+[30Dec2024 02:50:15.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [We Need to Go Deeper]
