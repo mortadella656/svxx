@@ -1678,3 +1678,9 @@ BCLib - The End  BiomeSource (98b5d77)
 [07Jan2025 05:55:33.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 8.206349122802749,3.375000134035375,5.218264261065542
 [07Jan2025 06:33:12.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LennoxZ> -5180 -92
 [07Jan2025 06:37:38.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Set the weather to clear]
+[07Jan2025 06:45:13.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Enchanter]
+[07Jan2025 06:46:07.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.277493122820033,3.749042407276633,-2.0598022151129953
+[07Jan2025 06:46:17.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.114630246368051,-2.8408175899316603,-4.438969333553359
+[07Jan2025 06:49:29.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.670528448819823,3.472175268443749,-0.26987084472057177
+[07Jan2025 06:49:32.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.434035956815478,3.3749957366452463,-0.024519442546989012
+[07Jan2025 06:49:34.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -4.172418154344086,-9.478345104069632,-0.023538664190255076
