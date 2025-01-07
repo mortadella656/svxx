@@ -7576,6 +7576,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-01-07 05:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-01-07 05:29:59 +0000"
@@ -7690,6 +7696,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-07 05:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-01-07 05:20:24 +0000"
@@ -7732,6 +7744,12 @@
     },
     "done": true
   },
+  "hauntedharvest:nether/splatter_eggs_in_nether": {
+    "criteria": {
+      "unlock": "2025-01-07 05:41:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-07 05:19:13 +0000"
@@ -7756,15 +7774,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube_uncrafting": {
+    "criteria": {
+      "has_sugar_cube": "2025-01-07 05:39:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-07 05:20:15 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-01-07 05:39:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-07 05:20:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-01-07 05:39:41 +0000"
     },
     "done": true
   },

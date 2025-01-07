@@ -1674,3 +1674,5 @@ BCLib - The End  BiomeSource (98b5d77)
 [07Jan2025 05:21:08.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-4024, y=64, z=-1497} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [07Jan2025 05:26:56.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.702640749771945,4.1250001292041105,-0.4722713796061271
 [07Jan2025 05:35:46.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -10.277925041889375,0.5845600147123946,-0.8522707872461979
+[07Jan2025 05:41:20.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Deviled Eggs]
+[07Jan2025 05:55:33.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 8.206349122802749,3.375000134035375,5.218264261065542
