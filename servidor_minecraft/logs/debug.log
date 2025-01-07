@@ -17612,3 +17612,185 @@ BCLib - The End  BiomeSource (98b5d77)
 [07Jan2025 03:33:34.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jan2025 03:33:49.553] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=72, z=-1482}) doesn't have enough leaves around top most log
 [07Jan2025 03:37:04.676] [Server thread/DEBUG] [mixin/]: Mixing ContainerLevelAccessMixin from railways.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[07Jan2025 03:38:34.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[07Jan2025 03:38:34.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[07Jan2025 03:38:34.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:38:34.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:39:40.404] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1478}) doesn't have enough leaves around top most log
+[07Jan2025 03:39:41.055] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=75, z=-1478}) doesn't have enough leaves around top most log
+[07Jan2025 03:39:41.702] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=74, z=-1478}) doesn't have enough leaves around top most log
+[07Jan2025 03:39:43.502] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=73, z=-1478}) doesn't have enough leaves around top most log
+[07Jan2025 03:39:46.256] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=72, z=-1478}) doesn't have enough leaves around top most log
+[07Jan2025 03:40:19.058] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1487}) doesn't have enough leaves around top most log
+[07Jan2025 03:40:19.758] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1488}) doesn't have enough leaves around top most log
+[07Jan2025 03:40:20.459] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1486}) doesn't have enough leaves around top most log
+[07Jan2025 03:40:21.108] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1485}) doesn't have enough leaves around top most log
+[07Jan2025 03:40:21.763] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1484}) doesn't have enough leaves around top most log
+[07Jan2025 03:40:22.453] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1483}) doesn't have enough leaves around top most log
+[07Jan2025 03:40:23.063] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1482}) doesn't have enough leaves around top most log
+[07Jan2025 03:40:23.716] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1481}) doesn't have enough leaves around top most log
+[07Jan2025 03:40:51.704] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=76, z=-1486}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:03.103] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=75, z=-1483}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:08.708] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1489}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:10.205] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1488}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:10.870] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1487}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:11.508] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1486}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:12.157] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1485}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:12.816] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1484}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:13.455] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1483}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:14.106] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1482}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:14.771] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1481}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:15.419] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1480}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:16.068] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1479}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:16.705] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1478}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:17.364] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1477}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:18.009] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1476}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:18.655] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1475}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:19.317] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1474}) doesn't have enough leaves around top most log
+[07Jan2025 03:41:19.957] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3857, y=77, z=-1473}) doesn't have enough leaves around top most log
+[07Jan2025 03:42:26.512] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3865, y=77, z=-1489}) doesn't have enough leaves around top most log
+[07Jan2025 03:43:34.369] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[07Jan2025 03:43:34.369] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[07Jan2025 03:43:34.369] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[07Jan2025 03:43:34.369] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[07Jan2025 03:43:34.369] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[07Jan2025 03:43:34.369] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[07Jan2025 03:43:34.369] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[07Jan2025 03:43:34.369] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[07Jan2025 03:43:34.370] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[07Jan2025 03:43:34.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:43:34.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:45:07.627] [Server thread/DEBUG] [plus.dragons.createenchantmentindustry.EnchantmentIndustry/]: Failed to load EnchHooks from Apotheosis, fall back to vanilla method...
