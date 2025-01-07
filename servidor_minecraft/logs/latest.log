@@ -1684,3 +1684,55 @@ BCLib - The End  BiomeSource (98b5d77)
 [07Jan2025 06:49:29.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.670528448819823,3.472175268443749,-0.26987084472057177
 [07Jan2025 06:49:32.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.434035956815478,3.3749957366452463,-0.024519442546989012
 [07Jan2025 06:49:34.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -4.172418154344086,-9.478345104069632,-0.023538664190255076
+[07Jan2025 06:51:06.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LennoxZ> -642 11
+[07Jan2025 06:51:19.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -6.9319123499967645,4.1249584102725265,-7.000109119532681
+[07Jan2025 06:52:55.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LennoxZ> -642 11
+[07Jan2025 06:53:10.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -8.082193611354455,2.8168906021829727,5.927965687485539
+[07Jan2025 06:53:15.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 3.575714617780932,4.578129779781939,-8.916580658762882
+[07Jan2025 06:54:38.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Ice Bucket Challenge]
+[07Jan2025 06:58:24.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8845ms or 176 ticks behind
+[07Jan2025 06:58:27.073] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5069, y=-23, z=-152}
+[07Jan2025 06:58:28.309] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5173, y=26, z=-202}
+[07Jan2025 06:58:28.357] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5195, y=-41, z=-197}
+[07Jan2025 06:58:28.358] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5195, y=-41, z=-195}
+[07Jan2025 06:58:31.825] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5312, y=35, z=26}
+[07Jan2025 06:58:31.825] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5311, y=35, z=26}
+[07Jan2025 06:58:35.566] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4997, y=-37, z=-244}
+[07Jan2025 06:58:35.566] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4997, y=-37, z=-245}
+[07Jan2025 06:58:41.243] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5098, y=-16, z=-290}
+[07Jan2025 06:58:46.692] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5282, y=-15, z=-333}
+[07Jan2025 06:58:49.707] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5394, y=-18, z=-26}
+[07Jan2025 06:58:49.707] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5394, y=-18, z=-28}
+[07Jan2025 06:58:57.365] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5446, y=34, z=130}
+[07Jan2025 06:59:01.768] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4965, y=-35, z=209}
+[07Jan2025 06:59:04.563] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5404, y=-7, z=214}
+[07Jan2025 06:59:07.473] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4841, y=11, z=-70}
+[07Jan2025 07:00:29.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to -5179.500000, 63.000000, -91.500000]
+[07Jan2025 07:01:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to -5083.140000, -54.000000, -112.800000]
+[07Jan2025 07:06:12.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to -1755.500000, -55.000000, 564.500000]
+[07Jan2025 07:07:33.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to -3870.500000, 70.000000, -1474.500000]
+[07Jan2025 07:10:07.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Gave 12 [End Portal Frame] to LennoxZ]
+[07Jan2025 07:10:22.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 4.038316809096614,3.3750001341104507,-8.844113994443205
+[07Jan2025 07:12:28.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Gave 12 [Eye of Ender] to LennoxZ]
+[07Jan2025 07:12:54.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [The End?]
+[07Jan2025 07:12:54.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [advancements.betterend.enter_end.title]
+[07Jan2025 07:12:56.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[07Jan2025 07:12:58.404] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[07Jan2025 07:12:58.405] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[07Jan2025 07:13:17.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Gave 1 [Arrow] to LennoxZ]
+[07Jan2025 07:15:08.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Take Aim]
+[07Jan2025 07:15:51.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Free the End]
+[07Jan2025 07:16:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [The Next Generation]
+[07Jan2025 07:17:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Remote Getaway]
+[07Jan2025 07:17:59.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -4.701999113953093,-3.960475917263352,-8.685454046500467
+[07Jan2025 07:19:42.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 8.898675909295662,3.3750001341104507,-4.0701023369167615
+[07Jan2025 07:21:25.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LennoxZ> 2952 ~ 984
+[07Jan2025 07:22:06.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 9.614313709794487,3.3750001286699103,-1.3819019480432644
+[07Jan2025 07:22:26.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 9.698617446958451,-0.008655383907012038,-2.987570435673547
+[07Jan2025 07:24:47.812] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 75 ms
+[07Jan2025 07:24:53.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 2656.500000, 72.000000, -255.500000]
+[07Jan2025 07:24:53.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[07Jan2025 07:25:04.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [The City at the End of the Game]
+[07Jan2025 07:26:23.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4799ms or 95 ticks behind
+[07Jan2025 07:29:36.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -7.621028618930723,3.750000149011612,7.089604540346954
+[07Jan2025 07:30:04.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 895.500000, 81.500000, 656.500000]

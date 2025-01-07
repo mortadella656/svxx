@@ -189,12 +189,15 @@
     "criteria": {
       "minecraft:cherry_grove": "2024-12-16 04:23:30 +0000",
       "minecraft:sunflower_plains": "2024-12-30 03:36:37 +0000",
+      "minecraft:bamboo_jungle": "2025-01-07 07:01:33 +0000",
       "minecraft:beach": "2024-12-30 03:37:11 +0000",
       "minecraft:river": "2024-12-16 04:33:20 +0000",
       "minecraft:stony_shore": "2024-12-16 05:25:14 +0000",
+      "minecraft:snowy_taiga": "2025-01-07 07:06:13 +0000",
       "minecraft:forest": "2024-12-16 04:22:26 +0000",
       "minecraft:desert": "2024-12-30 03:19:58 +0000",
       "minecraft:ocean": "2024-12-16 04:43:37 +0000",
+      "minecraft:jungle": "2025-01-07 06:58:24 +0000",
       "minecraft:warm_ocean": "2024-12-30 03:20:40 +0000",
       "minecraft:flower_forest": "2024-12-16 05:24:23 +0000",
       "minecraft:meadow": "2024-12-30 03:32:56 +0000",
@@ -4088,6 +4091,10 @@
       "minecraft:skeleton": "2024-12-18 04:21:39 +0000",
       "minecraft:spider": "2024-12-18 04:23:50 +0000",
       "minecraft:creeper": "2024-12-17 04:09:59 +0000",
+      "minecraft:ender_dragon": "2025-01-07 07:15:51 +0000",
+      "minecraft:shulker": "2025-01-07 07:25:03 +0000",
+      "minecraft:cave_spider": "2025-01-07 07:02:28 +0000",
+      "minecraft:enderman": "2025-01-07 07:13:32 +0000",
       "minecraft:zombie": "2024-12-17 04:13:36 +0000"
     },
     "done": false
@@ -7540,15 +7547,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-07 07:27:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-07 05:20:15 +0000"
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/dragon_tree_log": {
+    "criteria": {
+      "has_dragon_tree_bark": "2025-01-07 07:26:16 +0000"
+    },
+    "done": true
+  },
   "snowyspirit:recipes/decorations/sled_cherry": {
     "criteria": {
       "has_planks": "2025-01-07 05:30:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-07 07:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-07 07:12:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-07 06:59:34 +0000"
     },
     "done": true
   },
@@ -7564,6 +7619,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-07 07:15:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-07 05:20:15 +0000"
@@ -7573,6 +7634,12 @@
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-01-07 05:30:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_furnace": {
+    "criteria": {
+      "has_end_stone": "2025-01-07 07:16:40 +0000"
     },
     "done": true
   },
@@ -7594,15 +7661,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-07 07:13:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2025-01-07 05:20:15 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-07 06:59:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-07 05:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
     },
     "done": true
   },
@@ -7624,9 +7733,81 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-07 07:17:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-07 07:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-07 07:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-07 06:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-07 06:35:52 +0000"
+    },
+    "done": true
+  },
+  "ends_delight:root": {
+    "criteria": {
+      "the_end": "2025-01-07 07:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-07 07:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-07 07:12:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 06:54:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_shard_to_dust": {
+    "criteria": {
+      "has_item.betterend.ender_shard": "2025-01-07 07:13:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
     },
     "done": true
   },
@@ -7648,6 +7829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-07 07:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-01-07 05:17:11 +0000"
@@ -7666,15 +7853,73 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:enter_end": {
+    "criteria": {
+      "entered_end": "2025-01-07 07:12:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-01-07 05:30:09 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/filalux_lantern": {
+    "criteria": {
+      "has_filalux": "2025-01-07 07:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-01-07 05:29:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:all_the_biomes": {
+    "criteria": {
+      "betterend:dry_shrubland": "2025-01-07 07:23:37 +0000",
+      "betterend:shadow_forest": "2025-01-07 07:24:54 +0000",
+      "betterend:amber_land": "2025-01-07 07:18:32 +0000",
+      "betterend:ice_starfield": "2025-01-07 07:18:34 +0000",
+      "betterend:glowing_grasslands": "2025-01-07 07:18:24 +0000",
+      "betterend:dragon_graveyards": "2025-01-07 07:24:13 +0000",
+      "betterend:megalake_grove": "2025-01-07 07:23:15 +0000",
+      "betterend:chorus_forest": "2025-01-07 07:22:20 +0000",
+      "betterend:lantern_woods": "2025-01-07 07:19:41 +0000",
+      "betterend:megalake": "2025-01-07 07:22:31 +0000",
+      "betterend:blossoming_spires": "2025-01-07 07:19:59 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
     },
     "done": true
   },
@@ -7702,9 +7947,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-07 06:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-07 05:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
     },
     "done": true
   },
@@ -7732,6 +7995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-07 05:20:15 +0000"
@@ -7750,6 +8019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-07 07:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-01-07 05:20:24 +0000"
@@ -7762,15 +8037,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-07 06:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
   "hauntedharvest:nether/splatter_eggs_in_nether": {
     "criteria": {
       "unlock": "2025-01-07 05:41:20 +0000"
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-07 07:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-07 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-07 06:59:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
     },
     "done": true
   },
@@ -7792,6 +8097,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/thallasium_ingot_furnace_raw_blasting": {
+    "criteria": {
+      "has_item.betterend.thallasium_raw": "2025-01-07 07:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sugar_cube_uncrafting": {
     "criteria": {
       "has_sugar_cube": "2025-01-07 05:39:50 +0000"
@@ -7804,9 +8121,57 @@
     },
     "done": true
   },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-01-07 07:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-07 06:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-07 06:59:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-07 06:54:38 +0000"
     },
     "done": true
   },
@@ -7822,9 +8187,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-01-07 07:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/cave_pumpkin_pie": {
     "criteria": {
       "has_sugar": "2025-01-07 05:39:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dense_emerald_ice": {
+    "criteria": {
+      "has_emerald_ice": "2025-01-07 07:19:06 +0000"
     },
     "done": true
   },
@@ -7852,15 +8235,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-07 07:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-07 06:20:19 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/lotus_block": {
+    "criteria": {
+      "has_end_lotus_stem": "2025-01-07 07:22:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-01-07 05:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-07 06:59:34 +0000"
     },
     "done": true
   },
@@ -7882,9 +8283,21 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-07 07:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-07 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
     },
     "done": true
   },
@@ -7900,6 +8313,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-01-07 06:45:13 +0000"
@@ -7909,6 +8340,18 @@
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-07 05:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
     },
     "done": true
   },
@@ -7924,6 +8367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-07 05:20:15 +0000"
@@ -7933,6 +8382,24 @@
   "another_furniture:recipes/cherry_shelf": {
     "criteria": {
       "has_planks": "2025-01-07 05:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-07 07:25:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
     },
     "done": true
   },
@@ -7948,15 +8415,57 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-07 07:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-07 07:01:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-07 05:19:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 06:54:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-07 06:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-07 07:16:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-07 07:05:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_ingot_furnace_raw_smelting": {
+    "criteria": {
+      "has_item.betterend.thallasium_raw": "2025-01-07 07:16:40 +0000"
     },
     "done": true
   },
