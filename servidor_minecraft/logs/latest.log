@@ -1658,3 +1658,15 @@ BCLib - The End  BiomeSource (98b5d77)
 [07Jan2025 04:03:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ left the game
 [07Jan2025 04:07:58.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LennoxZ[/100.116.177.38:63340] logged in with entity id 19035 at (-3862.9134624429917, 77.0, -1484.7126987746567)
 [07Jan2025 04:07:58.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
+[07Jan2025 04:08:48.651] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07Jan2025 04:08:48.651] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07Jan2025 04:08:48.651] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07Jan2025 04:08:48.652] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07Jan2025 04:08:48.652] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07Jan2025 04:08:48.652] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07Jan2025 04:08:48.652] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[07Jan2025 04:08:48.652] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[07Jan2025 04:08:48.652] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[07Jan2025 04:08:48.653] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[07Jan2025 04:08:48.653] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
+[07Jan2025 04:10:10.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.675430010677246,3.3750001317301184,0.11379313975339755
