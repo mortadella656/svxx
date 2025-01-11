@@ -8420,17 +8420,21 @@
   "betterend:all_the_biomes": {
     "criteria": {
       "betterend:dry_shrubland": "2025-01-07 07:23:37 +0000",
+      "betterend:crystal_mountains": "2025-01-11 03:43:04 +0000",
       "betterend:shadow_forest": "2025-01-07 07:24:54 +0000",
       "betterend:amber_land": "2025-01-07 07:18:32 +0000",
       "betterend:sulphur_springs": "2025-01-07 07:48:37 +0000",
       "betterend:painted_mountains": "2025-01-07 07:41:14 +0000",
+      "betterend:neon_oasis": "2025-01-11 03:45:58 +0000",
       "betterend:ice_starfield": "2025-01-07 07:18:34 +0000",
+      "betterend:dust_wastelands": "2025-01-11 03:46:19 +0000",
       "betterend:glowing_grasslands": "2025-01-07 07:18:24 +0000",
       "betterend:dragon_graveyards": "2025-01-07 07:24:13 +0000",
       "betterend:megalake_grove": "2025-01-07 07:23:15 +0000",
       "betterend:umbra_valley": "2025-01-07 07:48:40 +0000",
       "betterend:chorus_forest": "2025-01-07 07:22:20 +0000",
       "betterend:lantern_woods": "2025-01-07 07:19:41 +0000",
+      "betterend:umbrella_jungle": "2025-01-11 03:50:59 +0000",
       "betterend:megalake": "2025-01-07 07:22:31 +0000",
       "betterend:blossoming_spires": "2025-01-07 07:19:59 +0000"
     },
@@ -8517,6 +8521,48 @@
       "vanilla": "2025-01-07 07:46:49 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-11 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_campfire": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-01-11 03:45:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smelting": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-01-11 03:45:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-01-11 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-11 03:48:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smoker": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-01-11 03:45:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-01-11 03:50:48 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -2134,3 +2134,11 @@ BCLib - The End  BiomeSource (6eaf956c)
 [11Jan2025 03:41:01.800] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
 [11Jan2025 03:42:08.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 7.9995624249340835,3.7499187535795784,5.23948441865241
 [11Jan2025 03:42:12.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 9.848742378292627,-3.0918782434903136,0.4902400407886489
+[11Jan2025 03:43:09.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 10.138732804352912,4.1249976538972675,0.7592235215045093
+[11Jan2025 03:43:46.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -2.895544738159515,-9.874406416422147,1.4264876412360081
+[11Jan2025 03:50:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Ender Distancing]
+[11Jan2025 03:50:48.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Capsid-19]
+[11Jan2025 03:53:04.611] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[11Jan2025 03:53:05.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3889, y=72, z=-1484} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jan2025 03:53:05.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3888, y=72, z=-1484} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jan2025 04:02:56.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Local Brewery]
