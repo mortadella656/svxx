@@ -4210,7 +4210,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2024-12-30 06:58:35 +0000",
-      "cod": "2024-12-17 04:59:42 +0000"
+      "cod": "2024-12-17 04:59:42 +0000",
+      "carrot": "2025-01-13 04:39:02 +0000"
     },
     "done": false
   },
@@ -8876,6 +8877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-13 04:42:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_crimson": {
     "criteria": {
       "has_planks": "2025-01-13 04:18:00 +0000"
@@ -8894,9 +8901,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-13 04:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2025-01-13 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-13 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-13 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-13 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-01-13 04:42:22 +0000"
     },
     "done": true
   },
@@ -8972,6 +9009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-13 04:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-13 04:18:00 +0000"
@@ -8993,6 +9036,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-13 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-13 04:45:48 +0000"
     },
     "done": true
   },
