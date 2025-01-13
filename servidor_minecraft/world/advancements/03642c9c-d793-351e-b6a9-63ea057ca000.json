@@ -187,6 +187,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-01-13 05:09:24 +0000",
+      "minecraft:deep_ocean": "2025-01-13 05:09:04 +0000",
       "minecraft:cherry_grove": "2024-12-16 04:23:30 +0000",
       "minecraft:sunflower_plains": "2024-12-30 03:36:37 +0000",
       "minecraft:bamboo_jungle": "2025-01-07 07:01:33 +0000",
@@ -4089,6 +4091,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-18 04:21:39 +0000",
+      "minecraft:elder_guardian": "2025-01-13 05:14:33 +0000",
       "minecraft:spider": "2024-12-18 04:23:50 +0000",
       "minecraft:creeper": "2024-12-17 04:09:59 +0000",
       "minecraft:ender_dragon": "2025-01-07 07:15:51 +0000",
@@ -8919,6 +8922,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-01-13 05:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-13 05:14:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-01-13 04:45:48 +0000"
@@ -8946,6 +8961,12 @@
   "another_furniture:recipes/crimson_shelf": {
     "criteria": {
       "has_planks": "2025-01-13 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-13 05:14:37 +0000"
     },
     "done": true
   },
@@ -9012,6 +9033,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-01-13 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-13 05:14:37 +0000"
     },
     "done": true
   },

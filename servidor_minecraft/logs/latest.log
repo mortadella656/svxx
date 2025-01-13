@@ -2108,3 +2108,17 @@ BCLib - The End  BiomeSource (405d9841)
 [13Jan2025 04:00:03.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3888, y=72, z=-1484} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [13Jan2025 04:00:26.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved wrongly!
 [13Jan2025 04:00:47.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -11.312779311360828,14.646611968122599,-0.9598811637390554
+[13Jan2025 05:08:22.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LennoxZ> -3432 ~ -2440
+[13Jan2025 05:08:57.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 0.49663453692164694,-0.9891376660720255,-17.49551755606467
+[13Jan2025 05:09:04.363] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4107, y=-22, z=-2097}
+[13Jan2025 05:09:04.364] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4106, y=-22, z=-2097}
+[13Jan2025 05:09:04.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 0.4521551913467192,1.0544997498635666,-18.19841212947108
+[13Jan2025 05:09:07.309] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3781, y=-50, z=-2118}
+[13Jan2025 05:09:24.012] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / hauntedharvest:abandoned_farm]] from pos BlockPos{x=-3845, y=74, z=-2341}
+[13Jan2025 05:09:25.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 0.6242443565979556,5.156546547711088,-17.40190971253469
+[13Jan2025 05:11:43.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.793781970661257,3.3750001341104507,0.3263827907362611
+[13Jan2025 05:11:49.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -1.8007699661666265,-11.810812214955604,0.17804263293237454
+[13Jan2025 05:12:08.566] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4162, y=-11, z=-2176}
+[13Jan2025 05:12:08.567] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4162, y=-11, z=-2174}
+[13Jan2025 05:12:48.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 10.370539743822064,3.7498822228716904,0.6649535337019188
+[13Jan2025 05:16:30.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved wrongly!
