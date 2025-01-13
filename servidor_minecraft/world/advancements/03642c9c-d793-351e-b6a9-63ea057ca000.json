@@ -8875,6 +8875,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_button": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_bulb_lantern_purple": {
     "criteria": {
       "has_purple_dye": "2025-01-13 05:36:06 +0000"
@@ -8884,6 +8890,18 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2025-01-13 05:36:06 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_trapdoor": {
+    "criteria": {
+      "hasFramedTrapdoor": "2025-01-13 05:55:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_soul_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -8905,6 +8923,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_stone_button": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-13 04:42:22 +0000"
@@ -8917,9 +8941,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
     "criteria": {
       "has_tide_armor_trim_smithing_template": "2025-01-13 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence_gate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -8929,9 +8965,33 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_chiseled_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/crimson_chair": {
     "criteria": {
       "has_planks": "2025-01-13 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bouncy_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_thick_lattice": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -8965,15 +9025,45 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_gold_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-01-13 05:42:55 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_obsidian_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bars": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-01-13 05:24:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_panel": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9013,15 +9103,39 @@
     },
     "done": true
   },
+  "framedblocks:recipes/misc/framed_reinforcement": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_hammer": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-01-13 05:14:35 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_item_frame": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 05:42:38 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_screwdriver": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9040,6 +9154,12 @@
   "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
     "criteria": {
       "has_weathered_copper": "2025-01-13 05:44:35 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_tube": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9067,6 +9187,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-13 05:36:06 +0000"
@@ -9079,9 +9205,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/loam": {
     "criteria": {
       "has_clay_ball": "2025-01-13 04:42:22 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_block": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9094,6 +9232,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-01-13 05:42:25 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/powered_framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9127,15 +9271,57 @@
     },
     "done": true
   },
+  "framedblocks:recipes/tools/framed_blueprint": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_hanging_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_wrench": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
     "criteria": {
       "has_weathered_copper": "2025-01-13 05:44:35 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_one_way_window": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-13 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lattice_block": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_secret_storage": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9175,6 +9361,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_lever": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-01-13 05:45:06 +0000"
@@ -9184,6 +9376,12 @@
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-01-13 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9217,9 +9415,33 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_redstone_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_door": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pane": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2025-01-13 05:20:33 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9232,6 +9454,18 @@
   "betterend:recipes/misc/terminite_bulb_lantern_purple": {
     "criteria": {
       "has_purple_dye": "2025-01-13 05:36:06 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9253,6 +9487,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/tools/framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 05:42:38 +0000"
@@ -9265,6 +9505,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
     "criteria": {
       "has_purple_dye": "2025-01-13 05:36:06 +0000"
@@ -9274,6 +9520,12 @@
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-01-13 05:23:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flower_pot": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9301,6 +9553,18 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_collapsible_block": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chest": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-01-13 04:45:48 +0000"
@@ -9319,6 +9583,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-01-13 05:50:20 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_target": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2025-01-13 05:20:33 +0000"
@@ -9331,9 +9607,27 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_ladder": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-13 05:23:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2025-01-13 05:50:36 +0000"
     },
     "done": true
   },
@@ -9349,9 +9643,45 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_collapsible_copycat_block": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_pillar": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_glowing_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-13 05:36:06 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9364,6 +9694,18 @@
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_shroomlight": "2025-01-13 03:58:57 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_key": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall": {
+    "criteria": {
+      "hasFramedCube": "2025-01-13 05:54:26 +0000"
     },
     "done": true
   },
@@ -9394,6 +9736,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-01-13 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-01-13 05:50:20 +0000"
     },
     "done": true
   },

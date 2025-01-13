@@ -2126,3 +2126,9 @@ BCLib - The End  BiomeSource (405d9841)
 [13Jan2025 05:31:55.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -7.675592663630596,3.396198949650426,16.07800156708163
 [13Jan2025 05:32:55.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 8.824450922247252,2.011176831925269,15.71319300834989
 [13Jan2025 05:38:10.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -9.430369276732108,0.0,-3.3753288190355306
+[13Jan2025 05:50:36.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Wax On]
+[13Jan2025 05:50:48.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 8.696026205246199,3.37499416471087,3.878637743091076
+[13Jan2025 05:50:50.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 10.299304393297007,0.0,0.6855849836201742
+[13Jan2025 05:50:54.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 10.025401634051377,0.5566464099812833,1.2170679617249789
+[13Jan2025 05:50:57.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 10.43249160294863,0.49142890286023544,1.2911529337566208
+[13Jan2025 05:54:51.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -17.226804850609824,-1.7622030166403135,-3.5806768087622913
