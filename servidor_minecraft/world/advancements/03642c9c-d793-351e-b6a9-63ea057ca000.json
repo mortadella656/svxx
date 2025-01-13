@@ -8983,6 +8983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-01-13 06:02:15 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_bouncy_cube": {
     "criteria": {
       "hasFramedCube": "2025-01-13 05:54:26 +0000"
@@ -9010,6 +9016,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-01-13 04:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-13 06:03:02 +0000"
     },
     "done": true
   },
@@ -9163,6 +9175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-13 06:02:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-01-13 04:45:48 +0000"
@@ -9292,6 +9310,18 @@
   "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
     "criteria": {
       "has_weathered_copper": "2025-01-13 05:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-13 06:02:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-01-13 06:02:15 +0000"
     },
     "done": true
   },
@@ -9652,6 +9682,12 @@
   "framedblocks:recipes/building_blocks/framed_sign": {
     "criteria": {
       "hasFramedCube": "2025-01-13 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-13 06:02:43 +0000"
     },
     "done": true
   },
