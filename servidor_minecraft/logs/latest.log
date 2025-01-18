@@ -2135,3 +2135,22 @@ BCLib - The End  BiomeSource (3e0fa9f9)
 [18Jan2025 00:34:55.814] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
 [18Jan2025 00:36:47.901] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3889, y=72, z=-1484} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [18Jan2025 00:36:47.908] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3888, y=72, z=-1484} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[18Jan2025 00:49:40.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Gone Bananas!]
+[18Jan2025 00:50:27.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ lost connection: Disconnected
+[18Jan2025 00:50:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ left the game
+[18Jan2025 00:50:27.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 47104ms or 942 ticks behind
+[18Jan2025 00:50:27.922] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jan2025 00:50:32.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LennoxZ[/100.116.177.38:60739] logged in with entity id 6850 at (-3823.2225882365583, 73.0, -1528.091884602366)
+[18Jan2025 00:50:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
+[18Jan2025 00:50:33.053] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jan2025 00:50:33.054] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jan2025 00:50:33.055] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jan2025 00:50:33.055] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jan2025 00:50:33.056] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jan2025 00:50:33.057] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jan2025 00:50:33.057] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jan2025 00:50:33.058] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jan2025 00:50:33.058] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jan2025 00:50:33.059] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jan2025 00:50:33.059] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jan2025 00:50:45.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
