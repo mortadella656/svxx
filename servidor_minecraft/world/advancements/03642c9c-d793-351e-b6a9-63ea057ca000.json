@@ -9982,6 +9982,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-01-18 01:07:47 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_shelf": {
     "criteria": {
       "has_planks": "2025-01-18 00:52:00 +0000"
@@ -9991,6 +9997,12 @@
   "create:recipes/building_blocks/jungle_window": {
     "criteria": {
       "has_ingredient": "2025-01-18 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-01-18 01:07:55 +0000"
     },
     "done": true
   },
@@ -10018,6 +10030,12 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-01-18 01:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-01-18 00:52:00 +0000"
@@ -10033,6 +10051,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-01-18 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-01-18 01:10:17 +0000"
     },
     "done": true
   },

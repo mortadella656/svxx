@@ -2154,3 +2154,5 @@ BCLib - The End  BiomeSource (3e0fa9f9)
 [18Jan2025 00:50:33.059] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [18Jan2025 00:50:33.059] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
 [18Jan2025 00:50:45.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[18Jan2025 01:02:01.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [A Pair of Giants]
+[18Jan2025 01:10:17.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Crushing It]
