@@ -191,8 +191,10 @@
       "minecraft:deep_ocean": "2025-01-13 05:09:04 +0000",
       "minecraft:cherry_grove": "2024-12-16 04:23:30 +0000",
       "minecraft:sunflower_plains": "2024-12-30 03:36:37 +0000",
+      "minecraft:birch_forest": "2025-01-18 01:38:27 +0000",
       "minecraft:bamboo_jungle": "2025-01-07 07:01:33 +0000",
       "minecraft:beach": "2024-12-30 03:37:11 +0000",
+      "minecraft:sparse_jungle": "2025-01-18 01:36:41 +0000",
       "minecraft:river": "2024-12-16 04:33:20 +0000",
       "minecraft:stony_shore": "2024-12-16 05:25:14 +0000",
       "minecraft:snowy_taiga": "2025-01-07 07:06:13 +0000",
@@ -202,6 +204,7 @@
       "minecraft:jungle": "2025-01-07 06:58:24 +0000",
       "minecraft:warm_ocean": "2024-12-30 03:20:40 +0000",
       "minecraft:flower_forest": "2024-12-16 05:24:23 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-18 01:36:40 +0000",
       "minecraft:meadow": "2024-12-30 03:32:56 +0000",
       "minecraft:savanna": "2025-01-13 06:13:41 +0000",
       "minecraft:plains": "2024-12-16 04:32:58 +0000"
@@ -9946,6 +9949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-01-18 01:38:07 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_chair": {
     "criteria": {
       "has_planks": "2025-01-18 00:52:00 +0000"
@@ -9955,6 +9964,18 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-01-18 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-18 01:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-18 01:39:20 +0000"
     },
     "done": true
   },
@@ -9979,6 +10000,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-18 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-18 01:39:20 +0000"
     },
     "done": true
   },
@@ -10024,6 +10051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-18 01:38:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-18 00:52:00 +0000"
@@ -10033,6 +10066,12 @@
   "create:fan_processing": {
     "criteria": {
       "0": "2025-01-18 01:12:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-18 01:31:15 +0000"
     },
     "done": true
   },
@@ -10057,6 +10096,18 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-01-18 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-18 01:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-18 01:39:20 +0000"
     },
     "done": true
   },
