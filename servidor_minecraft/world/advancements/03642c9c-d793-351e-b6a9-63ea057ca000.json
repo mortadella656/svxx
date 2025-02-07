@@ -191,10 +191,8 @@
       "minecraft:deep_ocean": "2025-01-13 05:09:04 +0000",
       "minecraft:cherry_grove": "2024-12-16 04:23:30 +0000",
       "minecraft:sunflower_plains": "2024-12-30 03:36:37 +0000",
-      "minecraft:birch_forest": "2025-01-18 01:38:27 +0000",
       "minecraft:bamboo_jungle": "2025-01-07 07:01:33 +0000",
       "minecraft:beach": "2024-12-30 03:37:11 +0000",
-      "minecraft:sparse_jungle": "2025-01-18 01:36:41 +0000",
       "minecraft:river": "2024-12-16 04:33:20 +0000",
       "minecraft:stony_shore": "2024-12-16 05:25:14 +0000",
       "minecraft:snowy_taiga": "2025-01-07 07:06:13 +0000",
@@ -204,7 +202,6 @@
       "minecraft:jungle": "2025-01-07 06:58:24 +0000",
       "minecraft:warm_ocean": "2024-12-30 03:20:40 +0000",
       "minecraft:flower_forest": "2024-12-16 05:24:23 +0000",
-      "minecraft:old_growth_birch_forest": "2025-01-18 01:36:40 +0000",
       "minecraft:meadow": "2024-12-30 03:32:56 +0000",
       "minecraft:savanna": "2025-01-13 06:13:41 +0000",
       "minecraft:plains": "2024-12-16 04:32:58 +0000"
@@ -4094,13 +4091,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-23 02:17:24 +0000",
+      "minecraft:pillager": "2025-01-23 02:35:34 +0000",
       "minecraft:skeleton": "2024-12-18 04:21:39 +0000",
       "minecraft:elder_guardian": "2025-01-13 05:14:33 +0000",
       "minecraft:guardian": "2025-01-13 05:17:24 +0000",
       "minecraft:spider": "2024-12-18 04:23:50 +0000",
       "minecraft:creeper": "2024-12-17 04:09:59 +0000",
-      "minecraft:zombified_piglin": "2025-01-18 00:41:49 +0000",
-      "minecraft:wither_skeleton": "2025-01-18 00:36:16 +0000",
       "minecraft:ender_dragon": "2025-01-07 07:15:51 +0000",
       "minecraft:shulker": "2025-01-07 07:25:03 +0000",
       "minecraft:cave_spider": "2025-01-07 07:02:28 +0000",
@@ -9811,327 +9808,159 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_acacia": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_shelf": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/acacia_window": {
-    "criteria": {
-      "has_ingredient": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_chair": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/acacia_wine_rack_big": {
-    "criteria": {
-      "has_acacia_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_acacia": {
-    "criteria": {
-      "has_the_recipe": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/acacia_wine_rack_small": {
-    "criteria": {
-      "has_acacia_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_table": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_acacia": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
-  "snowyspirit:recipes/decorations/sled_acacia": {
-    "criteria": {
-      "has_planks": "2025-01-18 00:44:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_log": "2025-01-18 00:49:39 +0000"
+      "has_log": "2025-01-23 02:22:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_logs": "2025-01-18 00:49:39 +0000"
+      "has_logs": "2025-01-23 02:22:57 +0000"
     },
     "done": true
   },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
-      "banana": "2025-01-18 00:49:40 +0000"
+      "banana": "2025-01-23 02:23:00 +0000"
     },
     "done": true
   },
   "snowyspirit:recipes/decorations/sled_jungle": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-01-18 01:38:07 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "another_furniture:recipes/jungle_chair": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-01-18 01:31:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-01-18 01:39:20 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "supplementaries:recipes/sign_post_jungle": {
     "criteria": {
-      "has_the_recipe": "2025-01-18 00:52:00 +0000"
+      "has_the_recipe": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-01-18 01:39:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
-    "criteria": {
-      "has_item": "2025-01-18 01:07:47 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "another_furniture:recipes/jungle_shelf": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/jungle_window": {
     "criteria": {
-      "has_ingredient": "2025-01-18 00:52:00 +0000"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2025-01-18 01:07:55 +0000"
+      "has_ingredient": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "vinery:recipes/jungle_wine_rack_small": {
     "criteria": {
-      "has_jungle_planks": "2025-01-18 00:52:00 +0000"
+      "has_jungle_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "vinery:recipes/jungle_wine_rack_big": {
     "criteria": {
-      "has_jungle_planks": "2025-01-18 00:52:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-18 01:38:07 +0000"
+      "has_jungle_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
-    },
-    "done": true
-  },
-  "create:fan_processing": {
-    "criteria": {
-      "0": "2025-01-18 01:12:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-01-18 01:31:15 +0000"
-    },
-    "done": true
-  },
-  "create:crushing_wheel": {
-    "criteria": {
-      "0": "2025-01-18 01:02:01 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "another_furniture:recipes/jungle_table": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-01-18 01:31:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-01-18 01:39:20 +0000"
-    },
-    "done": true
-  },
-  "create:crusher_maxed_0000": {
-    "criteria": {
-      "0": "2025-01-18 01:10:17 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
     },
     "done": true
   },
   "suppsquared:recipes/decorations/item_shelf_jungle": {
     "criteria": {
-      "has_planks": "2025-01-18 00:52:00 +0000"
+      "has_planks": "2025-01-23 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-23 02:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-07 03:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-07 03:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-07 03:18:06 +0000"
     },
     "done": true
   },
