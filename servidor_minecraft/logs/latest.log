@@ -2285,3 +2285,33 @@ BCLib - The End  BiomeSource (98b5d77)
 [25Feb2025 05:37:50.221] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [25Feb2025 05:37:50.222] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [25Feb2025 05:37:50.222] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
+[25Feb2025 05:42:56.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -7.262276439630682,4.125000163912773,6.608538612673499
+[25Feb2025 05:43:05.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:05.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:05.649] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:05.750] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:05.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:05.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.150] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -4.600539032778784,3.7348311453067993,8.692802804750869
+[25Feb2025 05:43:06.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.649] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.750] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:06.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Feb2025 05:43:09.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Those Were the Days]
+[25Feb2025 05:43:42.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [War Pigs]
+[25Feb2025 05:43:45.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Who is Cutting Onions?]
+[25Feb2025 05:45:31.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-869, y=71, z=265} BlockPos{x=-870, y=70, z=266}
+[25Feb2025 05:47:30.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -2.8279638230189903,-10.045625277804703,2.512595867753845
+[25Feb2025 05:47:41.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -5.729787603001569,-5.688388792827382,6.589124455977128
+[25Feb2025 05:47:45.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -7.083562856550202,1.7244877150669566,8.213513893922709
+[25Feb2025 05:47:49.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -6.9801514551863875,4.079974736085731,7.050249790730959
+[25Feb2025 05:47:55.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -7.316547052025157,3.1788127391699135,6.482599536115458
+[25Feb2025 05:48:41.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -10.260150536320225,-2.113371742818998,0.44841541395925333
+[25Feb2025 05:50:19.273] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[25Feb2025 05:50:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to -1551.500000, 89.000000, 528.500000]
