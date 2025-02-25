@@ -2193,3 +2193,4 @@ BCLib - The End  BiomeSource (98b5d77)
 [25Feb2025 04:16:15.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [25Feb2025 04:16:15.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [25Feb2025 04:16:15.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
+[25Feb2025 04:30:10.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 3.8830087648798326,-10.109225154075261,-0.39484649012138107
