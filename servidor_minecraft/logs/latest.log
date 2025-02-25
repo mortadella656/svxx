@@ -2227,3 +2227,18 @@ BCLib - The End  BiomeSource (98b5d77)
 [25Feb2025 05:19:10.582] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
 [25Feb2025 05:19:52.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ lost connection: Disconnected
 [25Feb2025 05:19:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ left the game
+[25Feb2025 05:30:30.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LennoxZ[/100.116.177.38:58814] logged in with entity id 15740 at (-484.641431174996, 65.0, -186.933599669101)
+[25Feb2025 05:30:30.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
+[25Feb2025 05:30:37.510] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25Feb2025 05:30:37.510] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25Feb2025 05:30:37.511] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25Feb2025 05:30:37.511] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25Feb2025 05:30:37.511] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25Feb2025 05:30:37.511] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25Feb2025 05:30:37.511] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25Feb2025 05:30:37.511] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25Feb2025 05:30:37.512] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25Feb2025 05:30:37.512] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25Feb2025 05:30:37.512] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
+[25Feb2025 05:31:00.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ lost connection: Timed out
+[25Feb2025 05:31:00.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ left the game
