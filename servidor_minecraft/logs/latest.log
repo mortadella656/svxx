@@ -2315,3 +2315,7 @@ BCLib - The End  BiomeSource (98b5d77)
 [25Feb2025 05:48:41.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -10.260150536320225,-2.113371742818998,0.44841541395925333
 [25Feb2025 05:50:19.273] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
 [25Feb2025 05:50:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to -1551.500000, 89.000000, 528.500000]
+[25Feb2025 05:57:02.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -7.678698133667467,1.94603502850606,6.601481697953091
+[25Feb2025 05:57:06.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -8.561675508276494,-3.6147253006759854,3.896570902034
+[25Feb2025 05:57:17.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -10.03628320513917,0.7722832910056816,2.3879822757868396
+[25Feb2025 05:58:42.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Hidden in the Depths]
