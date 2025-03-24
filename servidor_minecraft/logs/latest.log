@@ -2337,3 +2337,5 @@ BCLib - The End  BiomeSource (7fa93c33)
 [24Mar2025 06:26:45.840] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [24Mar2025 06:26:45.841] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [24Mar2025 06:26:45.841] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
+[24Mar2025 07:28:10.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ lost connection: Disconnected
+[24Mar2025 07:28:10.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ left the game
