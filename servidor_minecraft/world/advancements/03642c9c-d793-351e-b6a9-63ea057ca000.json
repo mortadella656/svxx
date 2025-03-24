@@ -4112,7 +4112,8 @@
       "minecraft:piglin": "2025-02-25 05:51:15 +0000",
       "minecraft:enderman": "2025-01-07 07:13:32 +0000",
       "minecraft:zombie": "2024-12-17 04:13:36 +0000",
-      "minecraft:drowned": "2025-02-07 04:13:54 +0000"
+      "minecraft:drowned": "2025-02-07 04:13:54 +0000",
+      "minecraft:zombie_villager": "2025-03-24 05:08:08 +0000"
     },
     "done": false
   },
@@ -11020,6 +11021,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-24 05:12:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-24 04:58:05 +0000"
@@ -11119,6 +11126,12 @@
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-03-24 04:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-24 05:14:03 +0000"
     },
     "done": true
   },
