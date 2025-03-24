@@ -2244,3 +2244,5 @@ BCLib - The End  BiomeSource (7fa93c33)
 [24Mar2025 04:56:47.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21034, l='ServerLevel[world]', x=-3823.50, y=44.00, z=-1992.50]
 [24Mar2025 04:56:52.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [We Just Want our Hat Back]
 [24Mar2025 04:56:52.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [A Bone to Pick]
+[24Mar2025 05:04:36.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3779, y=-33, z=-2124} BlockPos{x=-3777, y=-35, z=-2124}
+[24Mar2025 05:04:36.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3779, y=-33, z=-2124} BlockPos{x=-3777, y=-35, z=-2124}
