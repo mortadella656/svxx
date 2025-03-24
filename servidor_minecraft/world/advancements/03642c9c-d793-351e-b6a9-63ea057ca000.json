@@ -10918,9 +10918,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-24 04:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-24 04:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-03-24 04:45:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-03-24 04:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-24 04:51:31 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-03-24 04:40:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed": "2025-03-24 04:56:52 +0000"
     },
     "done": true
   },

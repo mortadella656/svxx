@@ -2241,3 +2241,6 @@ BCLib - The End  BiomeSource (7fa93c33)
 [24Mar2025 04:32:40.647] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
 [24Mar2025 04:40:17.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 8.797924125567988,5.190636611756659,-2.3416045264598324
 [24Mar2025 04:40:26.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 9.332303235967629,2.5069013220152954,-4.583105596605037
+[24Mar2025 04:56:47.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21034, l='ServerLevel[world]', x=-3823.50, y=44.00, z=-1992.50]
+[24Mar2025 04:56:52.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [We Just Want our Hat Back]
+[24Mar2025 04:56:52.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [A Bone to Pick]
