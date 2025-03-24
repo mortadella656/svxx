@@ -2218,3 +2218,9 @@ BCLib - The End  BiomeSource (7fa93c33)
 [24Mar2025 04:11:29.183] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3888, y=72, z=-1484} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [24Mar2025 04:11:29.192] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3889, y=72, z=-1484} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [24Mar2025 04:12:07.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Easter Egg Searcher]
+[24Mar2025 04:16:56.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Pray to the Goddess]
+[24Mar2025 04:25:03.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3908, y=70, z=-1463} BlockPos{x=-3914, y=68, z=-1466}
+[24Mar2025 04:25:03.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3908, y=70, z=-1463} BlockPos{x=-3914, y=68, z=-1466}
+[24Mar2025 04:25:03.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3908, y=70, z=-1463} BlockPos{x=-3914, y=68, z=-1466}
+[24Mar2025 04:25:03.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3908, y=70, z=-1463} BlockPos{x=-3914, y=68, z=-1466}
+[24Mar2025 04:25:03.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3908, y=70, z=-1463} BlockPos{x=-3914, y=68, z=-1466}
