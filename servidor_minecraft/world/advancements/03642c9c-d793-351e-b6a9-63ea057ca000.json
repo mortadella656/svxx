@@ -4105,6 +4105,7 @@
       "minecraft:spider": "2024-12-18 04:23:50 +0000",
       "minecraft:piglin_brute": "2025-02-25 05:58:15 +0000",
       "minecraft:creeper": "2024-12-17 04:09:59 +0000",
+      "minecraft:wither_skeleton": "2025-03-24 04:06:41 +0000",
       "minecraft:ender_dragon": "2025-01-07 07:15:51 +0000",
       "minecraft:shulker": "2025-01-07 07:25:03 +0000",
       "minecraft:cave_spider": "2025-01-07 07:02:28 +0000",
@@ -6479,10 +6480,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-30 03:16:37 +0000",
       "minecraft:soul_sand_valley": "2024-12-30 03:16:30 +0000",
+      "minecraft:nether_wastes": "2025-03-24 04:05:47 +0000",
       "minecraft:basalt_deltas": "2024-12-30 02:50:50 +0000",
       "minecraft:warped_forest": "2024-12-30 02:50:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
@@ -10652,9 +10654,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_ancient_debris": "2025-02-25 05:58:42 +0000"
+      "bastion": "2025-02-25 05:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-25 05:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-25 05:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-25 05:43:45 +0000"
     },
     "done": true
   },
@@ -10670,33 +10690,15 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-02-25 05:43:45 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-25 05:51:29 +0000"
     },
     "done": true
   },
-  "nethersdelight:recipes/food/hoglin_sirloin": {
-    "criteria": {
-      "hoglin_sirloin": "2025-02-25 05:52:31 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-25 05:51:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-02-25 05:43:45 +0000"
     },
     "done": true
   },
@@ -10730,12 +10732,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-02-25 05:58:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-25 05:51:29 +0000"
@@ -10748,12 +10744,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
-    "criteria": {
-      "hoglin_sirloin": "2025-02-25 05:52:31 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-25 05:51:29 +0000"
@@ -10763,12 +10753,6 @@
   "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-25 05:51:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-02-25 05:43:42 +0000"
     },
     "done": true
   },
@@ -10802,18 +10786,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
-    "criteria": {
-      "hoglin_sirloin": "2025-02-25 05:52:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-25 05:58:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-25 05:51:29 +0000"
@@ -10826,9 +10798,87 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "nethersdelight:recipes/food/hoglin_sirloin": {
     "criteria": {
-      "bastion": "2025-02-25 05:43:09 +0000"
+      "hoglin_sirloin": "2025-02-25 05:52:31 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-02-25 05:52:31 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-02-25 05:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-25 05:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-25 05:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-25 05:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-25 06:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-02-25 06:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-25 06:02:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-25 06:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-25 06:03:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-25 06:03:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-24 04:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-03-24 04:03:38 +0000"
     },
     "done": true
   },
