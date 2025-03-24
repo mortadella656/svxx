@@ -2224,3 +2224,18 @@ BCLib - The End  BiomeSource (7fa93c33)
 [24Mar2025 04:25:03.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3908, y=70, z=-1463} BlockPos{x=-3914, y=68, z=-1466}
 [24Mar2025 04:25:03.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3908, y=70, z=-1463} BlockPos{x=-3914, y=68, z=-1466}
 [24Mar2025 04:25:03.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3908, y=70, z=-1463} BlockPos{x=-3914, y=68, z=-1466}
+[24Mar2025 04:32:17.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ lost connection: Timed out
+[24Mar2025 04:32:17.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ left the game
+[24Mar2025 04:32:40.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LennoxZ[/100.116.177.38:60531] logged in with entity id 14138 at (-3905.782865753734, 72.0, -1464.9082074094808)
+[24Mar2025 04:32:40.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
+[24Mar2025 04:32:40.645] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[24Mar2025 04:32:40.645] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[24Mar2025 04:32:40.646] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[24Mar2025 04:32:40.646] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[24Mar2025 04:32:40.646] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[24Mar2025 04:32:40.646] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[24Mar2025 04:32:40.647] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[24Mar2025 04:32:40.647] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[24Mar2025 04:32:40.647] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[24Mar2025 04:32:40.647] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[24Mar2025 04:32:40.647] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/svxx/servidor_minecraft/bclib-sync (allowDelete=true)
