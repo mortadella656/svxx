@@ -512,3 +512,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 19:56:13.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
 [09Jul2025 19:56:13.748] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
 [09Jul2025 19:59:49.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Half a flight]
+[09Jul2025 20:05:29.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 10.474183090486804,2.0013359791121417,0.3590001046659381
+[09Jul2025 20:08:08.927] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[09Jul2025 20:08:08.928] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[09Jul2025 20:13:48.908] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / hauntedharvest:abandoned_farm], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=981, y=74, z=629}
