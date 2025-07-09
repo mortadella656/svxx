@@ -20,6 +20,18 @@
       "minecraft:sharpness",
       "minecraft:smite"
     ],
+    "minecraft:density": [
+      "minecraft:breach",
+      "minecraft:sharpness",
+      "minecraft:smite",
+      "minecraft:bane_of_arthropods"
+    ],
+    "minecraft:breach": [
+      "minecraft:density",
+      "minecraft:sharpness",
+      "minecraft:smite",
+      "minecraft:bane_of_arthropods"
+    ],
     "minecraft:protection": [
       "minecraft:projectile_protection",
       "minecraft:blast_protection",
