@@ -1,15 +1,7 @@
 ==== Connector Mixin Patch Audit Summary ====
-Successful: 1
-Partial: 1
+Successful: 0
+Partial: 0
 Failed: 0
-Success rate: 100.00%        Accuracy: 75.00%
+Success rate: NaN%        Accuracy: NaN%
 =============================================
-
-Mixin method pepjebs/mapatlases/mixin/fabric/ItemInHandRendererMixin renderMapAtlasItem(ZLnet/minecraft/world/item/ItemStack;Lnet/minecraft/client/player/AbstractClientPlayer;)Z
-  >> Using org.sinytra.adapter.patch.transformer.operation.ModifyMixinType
-     - Modify type to Lorg/sinytra/adapter/runtime/inject/ModifyInstanceofValue;
-
-Mixin method fi/dy/masa/litematica/mixin/MixinHandledScreen litematica_renderSlotHighlightsPre(Lnet/minecraft/client/gui/GuiGraphics;IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
-  >> Using org.sinytra.adapter.patch.transformer.operation.ModifyInjectionPoint
-     - Change injection point to Lnet/minecraft/client/gui/screens/inventory/AbstractContainerScreen;renderBackground(Lnet/minecraft/client/gui/GuiGraphics;IIF)V
 
