@@ -13,17 +13,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-07-09 20:43:55 +0000",
       "minecraft:flower_forest": "2025-07-09 20:05:11 +0000",
       "minecraft:beach": "2025-07-09 04:44:10 +0000",
-      "minecraft:frozen_river": "2025-07-09 03:34:34 +0000",
+      "minecraft:forest": "2025-07-09 20:41:45 +0000",
       "minecraft:taiga": "2025-07-09 03:35:10 +0000",
-      "minecraft:ocean": "2025-07-09 20:04:13 +0000",
-      "minecraft:sunflower_plains": "2025-07-09 20:09:14 +0000",
       "minecraft:river": "2025-07-09 04:31:32 +0000",
-      "minecraft:meadow": "2025-07-09 05:03:33 +0000",
       "minecraft:snowy_plains": "2025-07-09 02:56:40 +0000",
+      "minecraft:lush_caves": "2025-07-09 20:55:02 +0000",
       "minecraft:snowy_taiga": "2025-07-09 02:57:27 +0000",
       "minecraft:dripstone_caves": "2025-07-09 03:46:19 +0000",
+      "minecraft:frozen_river": "2025-07-09 03:34:34 +0000",
+      "minecraft:ocean": "2025-07-09 20:04:13 +0000",
+      "minecraft:sunflower_plains": "2025-07-09 20:09:14 +0000",
+      "minecraft:meadow": "2025-07-09 05:03:33 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-09 22:30:22 +0000",
       "minecraft:plains": "2025-07-09 03:59:20 +0000"
     },
     "done": false
@@ -422,7 +426,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-09 02:59:50 +0000",
       "minecraft:spider": "2025-07-09 04:42:52 +0000",
-      "minecraft:zombie": "2025-07-09 04:27:06 +0000"
+      "minecraft:zombie": "2025-07-09 04:27:06 +0000",
+      "minecraft:creeper": "2025-07-09 22:34:28 +0000"
     },
     "done": false
   },
@@ -2364,15 +2369,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
+  "paraglider:paraglider": {
     "criteria": {
-      "has_sand": "2025-07-09 20:06:20 +0000"
+      "paraglider": "2025-07-09 19:59:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
     "criteria": {
-      "has_beetroot": "2025-07-09 20:12:52 +0000"
+      "has_paragliders": "2025-07-09 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-07-09 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-09 20:06:20 +0000"
     },
     "done": true
   },
@@ -2388,27 +2405,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-07-09 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "paraglider:paraglider": {
-    "criteria": {
-      "paraglider": "2025-07-09 19:59:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-09 20:06:20 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/enduring_mixture": {
-    "criteria": {
-      "has_golden_carrot": "2025-07-09 20:12:50 +0000"
     },
     "done": true
   },
@@ -2421,24 +2420,6 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-09 20:06:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-07-09 20:12:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-07-09 20:09:22 +0000"
-    },
-    "done": true
-  },
-  "createaddition:recipes/misc/crafting/diamond_grit_sandpaper": {
-    "criteria": {
-      "has_paper": "2025-07-09 20:06:34 +0000"
     },
     "done": true
   },
@@ -2472,12 +2453,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-07-09 20:06:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-09 20:06:20 +0000"
@@ -2496,45 +2471,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-07-09 20:06:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-07-09 20:06:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-07-09 20:06:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-09 20:06:20 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/deku_leaf": {
-    "criteria": {
-      "has_paragliders": "2025-07-09 19:59:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-07-09 20:06:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-07-09 20:06:34 +0000"
     },
     "done": true
   },
@@ -2556,27 +2495,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-09 20:06:33 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/diamond_grit_sandpaper": {
+    "criteria": {
+      "has_paper": "2025-07-09 20:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-09 20:06:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-07-09 20:06:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-07-09 20:06:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-09 20:06:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-09 20:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-07-09 20:06:34 +0000"
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/paraglider": {
-    "criteria": {
-      "has_paragliders": "2025-07-09 19:59:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-07-09 20:07:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-07-09 20:13:03 +0000"
     },
     "done": true
   },
@@ -2589,6 +2558,180 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-07-09 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-09 20:09:22 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/enduring_mixture": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-09 20:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-09 20:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-09 20:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-09 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-09 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-09 20:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-09 20:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-09 20:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-09 20:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 20:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-09 20:44:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-09 20:45:24 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/spool": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-09 20:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-09 20:45:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-07-09 20:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-09 20:48:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-09 20:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-09 20:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-09 20:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-09 20:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-09 20:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-09 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 22:33:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-09 22:33:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-09 22:29:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-09 22:29:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-09 22:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-09 22:34:28 +0000"
     },
     "done": true
   },
