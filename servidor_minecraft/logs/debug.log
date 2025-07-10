@@ -9307,3 +9307,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 03:33:09.252] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
 [10Jul2025 03:33:09.252] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
 [10Jul2025 03:33:09.252] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[10Jul2025 03:36:33.312] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 03:41:33.312] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 03:46:33.310] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
