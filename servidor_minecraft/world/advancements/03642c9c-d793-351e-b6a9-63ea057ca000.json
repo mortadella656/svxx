@@ -427,6 +427,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-07-10 05:37:44 +0000",
+      "minecraft:cave_spider": "2025-07-10 05:57:37 +0000",
       "minecraft:skeleton": "2025-07-09 02:59:50 +0000",
       "minecraft:spider": "2025-07-09 04:42:52 +0000",
       "minecraft:wither_skeleton": "2025-07-10 05:36:21 +0000",
@@ -3154,6 +3155,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-10 06:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-07-10 05:47:46 +0000"
@@ -3286,6 +3293,12 @@
       "has_item": "2025-07-10 05:27:59 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_earth": "2025-07-10 05:57:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
@@ -3605,6 +3618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-10 05:57:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-10 04:19:53 +0000"
@@ -3650,6 +3669,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-10 05:37:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_survivor": {
+    "criteria": {
+      "has_prevent_earth": "2025-07-10 05:57:39 +0000"
     },
     "done": true
   },

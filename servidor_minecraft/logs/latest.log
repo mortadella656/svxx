@@ -574,3 +574,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 05:52:28.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Not even afraid of death]
 [10Jul2025 05:57:34.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved wrongly!
 [10Jul2025 05:57:39.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Death Survivor]
+[10Jul2025 05:59:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ was slain by Cave Spider
+[10Jul2025 05:59:05.742] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[10Jul2025 05:59:13.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 1146.500000, -31.500000, -33.500000]
+[10Jul2025 06:01:25.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Not Today, Thank You]
+[10Jul2025 06:03:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ was shot by Skeleton
+[10Jul2025 06:03:14.142] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
