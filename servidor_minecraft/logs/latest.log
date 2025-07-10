@@ -543,3 +543,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 05:13:17.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Summoned new Zombie]
 [10Jul2025 05:22:53.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/32280, l='ServerLevel[world]', x=1108.30, y=64.00, z=-48.58] died, message: 'Librarian was slain by Zombie'
 [10Jul2025 05:25:19.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Ice Bucket Challenge]
+[10Jul2025 05:30:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [We Need to Go Deeper]
+[10Jul2025 05:30:40.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3653ms or 73 ticks behind
+[10Jul2025 05:30:49.542] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39341, l='ServerLevel[world]', x=309.00, y=31.00, z=7.00] as it would cause deadlock
+[10Jul2025 05:30:51.858] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39353, l='ServerLevel[world]', x=322.00, y=31.00, z=5.00] as it would cause deadlock
+[10Jul2025 05:32:10.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LennoxZ> 363 123
+[10Jul2025 05:32:40.164] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39492, l='ServerLevel[world]', x=47.00, y=31.00, z=200.00] as it would cause deadlock
+[10Jul2025 05:33:30.137] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39761, l='ServerLevel[world]', x=49.00, y=31.00, z=307.00] as it would cause deadlock
+[10Jul2025 05:34:25.817] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39843, l='ServerLevel[world]', x=365.00, y=31.00, z=-27.00] as it would cause deadlock
+[10Jul2025 05:34:25.818] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39848, l='ServerLevel[world]', x=365.00, y=31.00, z=-38.00] as it would cause deadlock
+[10Jul2025 05:34:25.819] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39852, l='ServerLevel[world]', x=359.00, y=31.00, z=184.00] as it would cause deadlock
+[10Jul2025 05:34:47.909] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39959, l='ServerLevel[world]', x=390.00, y=31.00, z=24.00] as it would cause deadlock
+[10Jul2025 05:35:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [A Terrible Fortress]
+[10Jul2025 05:36:21.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ withered away
+[10Jul2025 05:36:21.944] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[10Jul2025 05:36:44.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 320.500000, 65.500000, 134.500000]
+[10Jul2025 05:37:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Into Fire]
