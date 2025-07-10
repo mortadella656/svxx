@@ -534,3 +534,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 03:54:22.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: The difficulty has been set to Hard]
 [10Jul2025 03:54:30.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13152, l='ServerLevel[world]', x=25.70, y=94.00, z=84.30] died, message: 'Unemployed was slain by Zombie Villager'
 [10Jul2025 03:56:34.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Local Brewery]
+[10Jul2025 04:00:51.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Zombie Doctor]
