@@ -3128,6 +3128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-10 05:06:35 +0000"
+    },
+    "done": true
+  },
   "hauntedharvest:nether/splatter_eggs_in_nether": {
     "criteria": {
       "unlock": "2025-07-10 03:18:08 +0000"
@@ -3254,6 +3260,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-10 05:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-10 05:23:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough": {
     "criteria": {
       "has_wheat": "2025-07-10 04:51:10 +0000"
@@ -3350,6 +3368,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-10 05:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-10 05:06:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-10 03:53:58 +0000"
@@ -3422,9 +3452,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-10 05:25:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-10 04:51:10 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_tank": {
+    "criteria": {
+      "hasBucket": "2025-07-10 05:23:46 +0000"
     },
     "done": true
   },

@@ -540,3 +540,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 04:22:42.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=63, z=-72} BlockPos{x=314, y=63, z=-74}
 [10Jul2025 04:53:34.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 7.418515335313032,0.0,-7.1007983738986695
 [10Jul2025 04:56:36.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/24339, l='ServerLevel[world]', x=1110.47, y=64.00, z=-47.30] died, message: 'Librarian was slain by Zombie'
+[10Jul2025 05:13:17.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Summoned new Zombie]
+[10Jul2025 05:22:53.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/32280, l='ServerLevel[world]', x=1108.30, y=64.00, z=-48.58] died, message: 'Librarian was slain by Zombie'
+[10Jul2025 05:25:19.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Ice Bucket Challenge]
