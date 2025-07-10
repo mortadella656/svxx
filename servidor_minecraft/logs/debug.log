@@ -9377,3 +9377,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 05:44:50.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 319.500000, 30.500000, 125.500000]
 [10Jul2025 05:45:20.724] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/43137, l='ServerLevel[world]', x=405.00, y=31.00, z=-107.00] as it would cause deadlock
 [10Jul2025 05:46:36.952] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 05:51:36.956] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 05:52:25.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Bone Crusher]
+[10Jul2025 05:52:28.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Back to childhood]
+[10Jul2025 05:52:28.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Not even afraid of death]
+[10Jul2025 05:56:37.172] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 05:57:34.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved wrongly!
+[10Jul2025 05:57:39.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Death Survivor]

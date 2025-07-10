@@ -3154,6 +3154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-10 05:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-07-10 03:56:34 +0000"
@@ -3215,6 +3221,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_lantern": {
+    "criteria": {
+      "hasTorch": "2025-07-10 05:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-10 05:32:45 +0000"
@@ -3242,6 +3254,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-07-10 05:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-10 05:47:46 +0000"
     },
     "done": true
   },
@@ -3344,6 +3362,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-10 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-10 05:47:46 +0000"
     },
     "done": true
   },
@@ -3503,6 +3527,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-07-10 05:52:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-07-10 05:06:35 +0000"
@@ -3599,6 +3629,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 05:52:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-07-10 04:00:51 +0000"
@@ -3638,6 +3674,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-10 04:51:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-07-10 05:52:28 +0000"
     },
     "done": true
   },
