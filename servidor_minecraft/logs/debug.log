@@ -9394,3 +9394,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 06:03:14.140] [Server thread/DEBUG] [tombstone/]: A new grave of the player LennoxZ was created at position [x:1163, y:-32, z:-33, dim:minecraft:overworld]
 [10Jul2025 06:03:14.142] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
 [10Jul2025 06:06:36.954] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 06:11:36.953] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 06:16:36.953] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
