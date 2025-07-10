@@ -9362,3 +9362,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 05:36:36.958] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [10Jul2025 05:36:44.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 320.500000, 65.500000, 134.500000]
 [10Jul2025 05:37:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Into Fire]
+[10Jul2025 05:38:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ tried to swim in lava to escape Blaze
+[10Jul2025 05:38:09.594] [Server thread/DEBUG] [tombstone/]: A new grave of the player LennoxZ was created at position [x:304, y:35, z:115, dim:minecraft:the_nether]
+[10Jul2025 05:38:09.596] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[10Jul2025 05:41:36.952] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 05:41:49.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=320, y=67, z=124} BlockPos{x=321, y=66, z=124}
+[10Jul2025 05:43:50.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ was burned to a crisp while fighting Blaze
+[10Jul2025 05:43:50.491] [Server thread/DEBUG] [tombstone/]: A new grave of the player LennoxZ was created at position [x:318, y:65, z:125, dim:minecraft:the_nether]
+[10Jul2025 05:43:50.492] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[10Jul2025 05:44:35.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Chain Death]
+[10Jul2025 05:44:35.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ tried to swim in lava to escape Skeleton
+[10Jul2025 05:44:35.744] [Server thread/DEBUG] [tombstone/]: A new grave of the player LennoxZ was created at position [x:319, y:33, z:120, dim:minecraft:the_nether]
+[10Jul2025 05:44:35.744] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[10Jul2025 05:44:50.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 319.500000, 30.500000, 125.500000]
+[10Jul2025 05:45:20.724] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/43137, l='ServerLevel[world]', x=405.00, y=31.00, z=-107.00] as it would cause deadlock
+[10Jul2025 05:46:36.952] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
