@@ -9300,3 +9300,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 03:24:25.690] [Server thread/DEBUG] [mixin/]: fabric-transfer-api-v1.mixins.json:DoubleInventoryAccessor from mod fabric_transfer_api_v1: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
 [10Jul2025 03:24:57.370] [Server thread/DEBUG] [mixin/]: Mixing CraftingInputMixin from map_atlases-common.mixins.json into net.minecraft.world.item.crafting.CraftingInput
 [10Jul2025 03:24:57.371] [Server thread/DEBUG] [mixin/]: map_atlases-common.mixins.json:CraftingInputMixin from mod map_atlases: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[10Jul2025 03:26:23.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -10.222884619940032,-0.2336320060424839,-0.5231889763438886
+[10Jul2025 03:26:33.336] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 03:31:33.318] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 03:33:09.237] [Server thread/DEBUG] [mixin/]: Mixing MixinRaid from paraglider.mixins.json into net.minecraft.world.entity.raid.Raid
+[10Jul2025 03:33:09.252] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[10Jul2025 03:33:09.252] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[10Jul2025 03:33:09.252] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result

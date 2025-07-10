@@ -530,3 +530,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 03:18:08.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Deviled Eggs]
 [10Jul2025 03:18:25.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Set own game mode to Spectator Mode]
 [10Jul2025 03:18:34.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Set own game mode to Survival Mode]
+[10Jul2025 03:26:23.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -10.222884619940032,-0.2336320060424839,-0.5231889763438886
