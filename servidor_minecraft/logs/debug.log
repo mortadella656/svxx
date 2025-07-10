@@ -9318,3 +9318,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 04:00:51.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Zombie Doctor]
 [10Jul2025 04:01:33.304] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [10Jul2025 04:06:33.305] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 04:11:33.302] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 04:16:33.302] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 04:17:02.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ was shot by Skeleton
+[10Jul2025 04:17:02.444] [Server thread/DEBUG] [tombstone/]: A new grave of the player LennoxZ was created at position [x:386, y:63, z:-1, dim:minecraft:overworld]
+[10Jul2025 04:17:02.447] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[10Jul2025 04:21:33.303] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 04:22:42.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=63, z=-72} BlockPos{x=314, y=63, z=-74}
+[10Jul2025 04:26:33.304] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 04:31:33.304] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 04:36:33.302] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 04:41:33.302] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[10Jul2025 04:46:33.303] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
