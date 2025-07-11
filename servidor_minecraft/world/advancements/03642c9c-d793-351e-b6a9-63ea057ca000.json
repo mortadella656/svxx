@@ -429,14 +429,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-07-10 05:37:44 +0000",
-      "minecraft:cave_spider": "2025-07-10 05:57:37 +0000",
       "minecraft:skeleton": "2025-07-09 02:59:50 +0000",
+      "minecraft:zombified_piglin": "2025-07-11 06:24:46 +0000",
+      "minecraft:wither_skeleton": "2025-07-10 05:36:21 +0000",
+      "minecraft:ghast": "2025-07-11 06:25:20 +0000",
+      "minecraft:cave_spider": "2025-07-10 05:57:37 +0000",
       "minecraft:piglin": "2025-07-11 06:07:09 +0000",
       "minecraft:stray": "2025-07-10 06:59:25 +0000",
       "minecraft:magma_cube": "2025-07-11 06:06:27 +0000",
       "minecraft:spider": "2025-07-09 04:42:52 +0000",
       "minecraft:piglin_brute": "2025-07-11 06:05:48 +0000",
-      "minecraft:wither_skeleton": "2025-07-10 05:36:21 +0000",
       "minecraft:zombie": "2025-07-09 04:27:06 +0000",
       "minecraft:creeper": "2025-07-09 22:34:28 +0000",
       "minecraft:slime": "2025-07-09 22:41:39 +0000"
@@ -4218,6 +4220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-11 06:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-07-11 06:16:29 +0000"
@@ -4239,6 +4247,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-11 06:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-07-11 06:21:24 +0000"
     },
     "done": true
   },
@@ -4329,6 +4343,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-11 06:04:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-07-11 06:22:34 +0000"
     },
     "done": true
   },
@@ -4437,6 +4457,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-11 06:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-11 06:22:34 +0000"
     },
     "done": true
   },

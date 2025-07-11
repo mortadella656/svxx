@@ -9085,3 +9085,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jul2025 06:15:43.818] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [11Jul2025 06:16:29.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Hidden in the Depths]
 [11Jul2025 06:20:43.820] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Jul2025 06:21:24.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Oh Shiny]
+[11Jul2025 06:25:38.613] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/18686, l='ServerLevel[world]', x=614.00, y=31.00, z=-167.00] as it would cause deadlock
+[11Jul2025 06:25:43.821] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Jul2025 06:26:30.524] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/18811, l='ServerLevel[world]', x=718.00, y=31.00, z=-216.00] as it would cause deadlock
+[11Jul2025 06:29:45.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=79, z=20} BlockPos{x=367, y=79, z=20}
+[11Jul2025 06:29:46.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=79, z=20} BlockPos{x=363, y=80, z=20}
+[11Jul2025 06:29:46.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=79, z=20} BlockPos{x=363, y=80, z=20}
+[11Jul2025 06:29:46.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=79, z=20} BlockPos{x=363, y=80, z=20}
+[11Jul2025 06:30:43.822] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
