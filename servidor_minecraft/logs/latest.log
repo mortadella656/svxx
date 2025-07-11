@@ -550,3 +550,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jul2025 06:09:58.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ was slain by Piglin
 [11Jul2025 06:09:58.361] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
 [11Jul2025 06:10:23.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 628.500000, 48.500000, 182.500000]
+[11Jul2025 06:16:29.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Hidden in the Depths]

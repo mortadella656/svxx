@@ -9082,3 +9082,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jul2025 06:09:58.361] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
 [11Jul2025 06:10:23.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 628.500000, 48.500000, 182.500000]
 [11Jul2025 06:10:43.822] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Jul2025 06:15:43.818] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Jul2025 06:16:29.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Hidden in the Depths]
+[11Jul2025 06:20:43.820] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
