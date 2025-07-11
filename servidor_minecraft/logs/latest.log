@@ -526,3 +526,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jul2025 05:12:01.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
 [11Jul2025 05:12:01.868] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
 [11Jul2025 05:23:26.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['tea'/2335, l='ServerLevel[world]', x=1093.51, y=64.00, z=-29.00] died: tea was blown up by Creeper
+[11Jul2025 05:37:59.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Enchanter]
+[11Jul2025 05:40:10.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 44.69999998807907,-2.0,1.2391470106704077
