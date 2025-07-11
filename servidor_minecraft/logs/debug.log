@@ -9064,3 +9064,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jul2025 05:58:25.010] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13929, l='ServerLevel[world]', x=589.00, y=31.00, z=83.00] as it would cause deadlock
 [11Jul2025 06:00:43.830] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [11Jul2025 06:00:51.224] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14465, l='ServerLevel[world]', x=748.00, y=31.00, z=195.00] as it would cause deadlock
+[11Jul2025 06:03:58.468] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14815, l='ServerLevel[world]', x=859.00, y=31.00, z=417.00] as it would cause deadlock
+[11Jul2025 06:03:58.560] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14821, l='ServerLevel[world]', x=851.00, y=31.00, z=-73.00] as it would cause deadlock
+[11Jul2025 06:04:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Those Were the Days]
+[11Jul2025 06:04:10.994] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14885, l='ServerLevel[world]', x=897.00, y=31.00, z=109.00] as it would cause deadlock
+[11Jul2025 06:04:47.860] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14972, l='ServerLevel[world]', x=939.00, y=31.00, z=450.00] as it would cause deadlock
+[11Jul2025 06:05:17.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ tried to swim in lava to escape Piglin Brute
+[11Jul2025 06:05:17.275] [Server thread/DEBUG] [tombstone/]: A new grave of the player LennoxZ was created at position [x:638, y:35, z:181, dim:minecraft:the_nether]
+[11Jul2025 06:05:17.286] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[11Jul2025 06:05:40.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 638.500000, 34.500000, 179.500000]
+[11Jul2025 06:05:43.944] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Jul2025 06:06:03.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [War Pigs]
+[11Jul2025 06:06:06.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Cover Me with Diamonds]
+[11Jul2025 06:07:17.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Who is Cutting Onions?]
+[11Jul2025 06:09:58.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ was slain by Piglin
+[11Jul2025 06:09:58.355] [Server thread/DEBUG] [tombstone/]: A new grave of the player LennoxZ was created at position [x:628, y:48, z:182, dim:minecraft:the_nether]
+[11Jul2025 06:09:58.361] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[11Jul2025 06:10:23.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 628.500000, 48.500000, 182.500000]
+[11Jul2025 06:10:43.822] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
