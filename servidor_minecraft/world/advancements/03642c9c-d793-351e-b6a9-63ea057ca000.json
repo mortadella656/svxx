@@ -4604,6 +4604,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-07-12 20:49:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-07-12 19:27:48 +0000"
@@ -5072,9 +5078,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-07-12 20:51:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
     "criteria": {
       "has_barrel": "2025-07-12 20:28:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-07-12 20:49:41 +0000"
     },
     "done": true
   },

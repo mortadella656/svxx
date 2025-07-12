@@ -543,3 +543,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jul2025 20:35:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 301.500000, 29.500000, 121.500000]
 [12Jul2025 20:40:31.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ fell from a high place
 [12Jul2025 20:40:31.673] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[12Jul2025 20:44:23.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ was shot by Skeleton
+[12Jul2025 20:44:23.045] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[12Jul2025 20:48:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ starved to death
+[12Jul2025 20:48:36.494] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
