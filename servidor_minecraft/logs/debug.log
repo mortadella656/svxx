@@ -9045,3 +9045,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jul2025 19:36:37.775] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
 [12Jul2025 19:36:43.267] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [12Jul2025 19:41:43.266] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 19:44:00.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7706, l='ServerLevel[world]', x=967.18, y=62.45, z=-75.23] died, message: 'Librarian suffocated in a wall'
+[12Jul2025 19:44:17.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Summoned new Zombie Villager]
+[12Jul2025 19:44:29.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: The difficulty has been set to Hard]
+[12Jul2025 19:44:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Gave 1 [Golden Apple] to LennoxZ]
+[12Jul2025 19:44:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Gave 1 [Splash Potion of Weakness] to LennoxZ]
+[12Jul2025 19:46:43.264] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 19:51:43.265] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
