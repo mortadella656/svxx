@@ -4622,6 +4622,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/misc/smithing/blaze_forger": {
+    "criteria": {
+      "has_blaze_burner": "2025-07-12 20:37:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/green_postbox": {
     "criteria": {
       "has_barrel": "2025-07-12 20:28:02 +0000"
@@ -4766,6 +4772,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-07-12 20:37:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-07-12 20:20:51 +0000"
@@ -4883,6 +4895,12 @@
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-07-12 19:27:48 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/misc/smithing/blaze_enchanter": {
+    "criteria": {
+      "has_blaze_burner": "2025-07-12 20:37:37 +0000"
     },
     "done": true
   },

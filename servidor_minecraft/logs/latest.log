@@ -537,3 +537,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jul2025 20:20:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [The Andesite Age]
 [12Jul2025 20:22:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Bonk!]
 [12Jul2025 20:23:09.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Workout Session]
+[12Jul2025 20:33:52.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 10.475033052658375,0.0,-0.005473226712254586
+[12Jul2025 20:35:14.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ tried to swim in lava to escape Magma Cube
+[12Jul2025 20:35:14.249] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
+[12Jul2025 20:35:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Teleported LennoxZ to 301.500000, 29.500000, 121.500000]
+[12Jul2025 20:40:31.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ fell from a high place
+[12Jul2025 20:40:31.673] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
