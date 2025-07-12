@@ -9052,3 +9052,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jul2025 19:44:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Gave 1 [Splash Potion of Weakness] to LennoxZ]
 [12Jul2025 19:46:43.264] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [12Jul2025 19:51:43.265] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 19:56:43.264] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 20:01:43.262] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
