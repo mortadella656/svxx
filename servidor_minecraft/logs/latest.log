@@ -531,3 +531,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jul2025 19:44:29.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: The difficulty has been set to Hard]
 [12Jul2025 19:44:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Gave 1 [Golden Apple] to LennoxZ]
 [12Jul2025 19:44:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Gave 1 [Splash Potion of Weakness] to LennoxZ]
+[12Jul2025 20:06:46.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Ambush]
+[12Jul2025 20:06:59.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ was shot by Skeleton
+[12Jul2025 20:06:59.217] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
