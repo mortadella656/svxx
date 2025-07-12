@@ -9060,3 +9060,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jul2025 20:06:59.200] [Server thread/DEBUG] [tombstone/]: A new grave of the player LennoxZ was created at position [x:965, y:61, z:-81, dim:minecraft:overworld]
 [12Jul2025 20:06:59.217] [Server thread/INFO] [tombstone/]: The player LennoxZ has successfully been saved
 [12Jul2025 20:11:43.259] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 20:16:43.261] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 20:20:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [The Andesite Age]
+[12Jul2025 20:21:25.162] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1112, y=64, z=-37}) doesn't have enough leaves around top most log
+[12Jul2025 20:21:25.163] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1112, y=64, z=-37}) doesn't have enough leaves around top most log
+[12Jul2025 20:21:25.682] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1112, y=65, z=-37}) doesn't have enough leaves around top most log
+[12Jul2025 20:21:25.683] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1112, y=65, z=-37}) doesn't have enough leaves around top most log
+[12Jul2025 20:21:43.261] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 20:22:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Bonk!]
+[12Jul2025 20:23:09.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Workout Session]
+[12Jul2025 20:26:43.275] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 20:28:29.154] [Server thread/DEBUG] [mixin/]: Mixing ConnectivityHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.api.connectivity.ConnectivityHandler
+[12Jul2025 20:28:29.155] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[12Jul2025 20:28:29.202] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidSingle(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[12Jul2025 20:28:29.203] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidMulti(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[12Jul2025 20:31:43.263] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
