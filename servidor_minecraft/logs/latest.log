@@ -525,3 +525,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jul2025 19:12:47.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LennoxZ[/100.116.177.38:59252] logged in with entity id 220 at (1063.2889091729035, 69.0, -33.32713444734733)
 [12Jul2025 19:12:47.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
 [12Jul2025 19:12:48.051] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[12Jul2025 19:33:19.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 9.95107176764077,1.0,4.257459308875212

@@ -9037,3 +9037,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jul2025 19:17:26.963] [Server thread/DEBUG] [mixin/]: map_atlases-common.mixins.json:CraftingInputMixin from mod map_atlases: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
 [12Jul2025 19:21:43.282] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [12Jul2025 19:26:43.272] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 19:31:43.273] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 19:33:19.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 9.95107176764077,1.0,4.257459308875212
+[12Jul2025 19:36:37.740] [Server thread/DEBUG] [mixin/]: Mixing MixinRaid from paraglider.mixins.json into net.minecraft.world.entity.raid.Raid
+[12Jul2025 19:36:37.775] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[12Jul2025 19:36:37.775] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[12Jul2025 19:36:37.775] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[12Jul2025 19:36:43.267] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 19:41:43.266] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
