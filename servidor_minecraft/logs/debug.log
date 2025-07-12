@@ -9035,3 +9035,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jul2025 19:17:18.080] [Server thread/DEBUG] [mixin/]: fabric-transfer-api-v1.mixins.json:DoubleInventoryAccessor from mod fabric_transfer_api_v1: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
 [12Jul2025 19:17:26.962] [Server thread/DEBUG] [mixin/]: Mixing CraftingInputMixin from map_atlases-common.mixins.json into net.minecraft.world.item.crafting.CraftingInput
 [12Jul2025 19:17:26.963] [Server thread/DEBUG] [mixin/]: map_atlases-common.mixins.json:CraftingInputMixin from mod map_atlases: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[12Jul2025 19:21:43.282] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Jul2025 19:26:43.272] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
