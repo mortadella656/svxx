@@ -9371,3 +9371,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Jul2025 05:03:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [The Brass Age]
 [15Jul2025 05:07:18.658] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [15Jul2025 05:12:18.660] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[15Jul2025 05:17:18.656] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[15Jul2025 05:22:18.654] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[15Jul2025 05:22:21.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Wax Off]

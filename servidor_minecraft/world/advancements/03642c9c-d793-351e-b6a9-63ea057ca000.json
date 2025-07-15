@@ -5290,6 +5290,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-07-15 05:21:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-07-15 04:54:07 +0000"
@@ -5329,6 +5335,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2025-07-15 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-07-15 05:21:07 +0000"
     },
     "done": true
   },
@@ -5530,6 +5542,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-07-15 05:21:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2025-07-15 05:03:42 +0000"
@@ -5581,6 +5599,12 @@
   "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-07-15 04:33:39 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_lantern": {
+    "criteria": {
+      "copper": "2025-07-15 05:21:07 +0000"
     },
     "done": true
   },
@@ -5698,6 +5722,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-07-15 05:21:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
     "criteria": {
       "has_rose_quartz": "2025-07-15 04:57:29 +0000"
@@ -5752,6 +5782,12 @@
     },
     "done": true
   },
+  "create_dragons_plus:recipes/fluid_hatch": {
+    "criteria": {
+      "has_item_drain": "2025-07-15 05:21:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2025-07-15 04:54:56 +0000"
@@ -5785,6 +5821,12 @@
   "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-07-15 04:54:56 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-07-15 05:20:58 +0000"
     },
     "done": true
   },
