@@ -664,3 +664,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Jul2025 05:03:26.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Complex Curiosities]
 [15Jul2025 05:03:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [The Brass Age]
 [15Jul2025 05:22:21.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Wax Off]
+[15Jul2025 05:37:44.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has reached the goal [Fortuitous Militia]
