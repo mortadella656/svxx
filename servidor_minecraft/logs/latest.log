@@ -661,3 +661,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Jul2025 04:22:38.786] [Server thread/INFO] [Supplementaries/]: Registering custom dispenser behaviors
 [15Jul2025 04:23:23.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Minecraft: Trial(s) Edition]
 [15Jul2025 04:40:09.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -30.82324802237372,48.0,-49.676316249589775
+[15Jul2025 05:03:26.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Complex Curiosities]
+[15Jul2025 05:03:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [The Brass Age]
