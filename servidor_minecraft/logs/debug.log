@@ -9073,3 +9073,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jul2025 04:17:37.009] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [16Jul2025 04:22:37.008] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [16Jul2025 04:27:37.006] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Jul2025 04:29:57.188] [Server thread/DEBUG] [mixin/]: Mixing DeployerHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.kinetics.deployer.DeployerHandler
+[16Jul2025 04:29:57.189] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:DeployerHandlerMixin from mod create_enchantment_industry: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16Jul2025 04:32:37.010] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Jul2025 04:37:37.008] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Jul2025 04:42:37.010] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Jul2025 04:47:37.008] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
