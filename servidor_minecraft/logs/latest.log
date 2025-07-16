@@ -526,3 +526,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jul2025 03:28:57.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LennoxZ[/100.116.177.38:50030] logged in with entity id 220 at (1116.8814286248294, 63.0, -22.55401652750177)
 [16Jul2025 03:28:57.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
 [16Jul2025 03:28:57.201] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[16Jul2025 04:11:09.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Wheels of Destruction]
