@@ -9084,3 +9084,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jul2025 22:04:31.078] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [18Jul2025 22:04:59.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 24.91805559532054,65.0,307.4846647568222
 [18Jul2025 22:09:31.081] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 22:14:31.083] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 22:17:46.888] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20159, l='ServerLevel[world]', x=20.00, y=31.00, z=-391.00] as it would cause deadlock
+[18Jul2025 22:17:46.890] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20162, l='ServerLevel[world]', x=13.00, y=31.00, z=-399.10] as it would cause deadlock
+[18Jul2025 22:18:04.918] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20272, l='ServerLevel[world]', x=58.00, y=31.00, z=-418.00] as it would cause deadlock
+[18Jul2025 22:19:31.075] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 22:19:58.603] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20549, l='ServerLevel[world]', x=243.00, y=31.00, z=-533.00] as it would cause deadlock
+[18Jul2025 22:20:58.563] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20697, l='ServerLevel[world]', x=-126.00, y=31.00, z=-613.00] as it would cause deadlock
+[18Jul2025 22:23:00.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Spooky Scary Skeleton]
+[18Jul2025 22:24:31.074] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 22:27:52.767] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21500, l='ServerLevel[world]', x=571.00, y=31.00, z=-492.00] as it would cause deadlock
+[18Jul2025 22:28:04.820] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21542, l='ServerLevel[world]', x=581.00, y=31.00, z=-463.00] as it would cause deadlock
+[18Jul2025 22:28:04.821] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21545, l='ServerLevel[world]', x=576.90, y=31.00, z=-453.00] as it would cause deadlock
+[18Jul2025 22:29:31.076] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 22:34:31.076] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 22:39:31.079] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
