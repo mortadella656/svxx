@@ -530,3 +530,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jul2025 21:20:31.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -146.37803796259186,-1.0,-1114.1620976731979
 [18Jul2025 21:34:24.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1137, y=63, z=-56} BlockPos{x=1138, y=62, z=-56}
 [18Jul2025 21:34:24.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1135, y=63, z=-56} BlockPos{x=1136, y=62, z=-56}
+[18Jul2025 21:58:18.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Magic Writing]
+[18Jul2025 22:04:11.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1104, y=2, z=-369} BlockPos{x=1103, y=1, z=-369}
+[18Jul2025 22:04:59.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 24.91805559532054,65.0,307.4846647568222
