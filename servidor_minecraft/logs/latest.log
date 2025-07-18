@@ -521,3 +521,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jul2025 03:34:16.181] [Server thread/INFO] [veinminer/]: [32m[Vein Miner] Registered and loaded mod events and files![0m
 [18Jul2025 03:34:19.718] [Server thread/WARN] [ModernFix/]: Dedicated server took 31.377 seconds to load
 [18Jul2025 03:34:19.731] [Server thread/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[18Jul2025 03:47:18.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LennoxZ[/100.116.177.38:63537] logged in with entity id 220 at (1119.8328125478706, 63.5625, -39.99101369941276)
+[18Jul2025 03:47:18.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ joined the game
+[18Jul2025 03:47:18.329] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
