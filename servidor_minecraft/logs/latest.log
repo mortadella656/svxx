@@ -542,3 +542,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jul2025 22:27:52.767] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21500, l='ServerLevel[world]', x=571.00, y=31.00, z=-492.00] as it would cause deadlock
 [18Jul2025 22:28:04.820] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21542, l='ServerLevel[world]', x=581.00, y=31.00, z=-463.00] as it would cause deadlock
 [18Jul2025 22:28:04.821] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21545, l='ServerLevel[world]', x=576.90, y=31.00, z=-453.00] as it would cause deadlock
+[18Jul2025 22:40:43.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1132, y=62, z=-54} BlockPos{x=1133, y=62, z=-54}
+[18Jul2025 22:40:43.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1132, y=62, z=-54} BlockPos{x=1133, y=62, z=-54}
+[18Jul2025 22:40:43.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1132, y=62, z=-54} BlockPos{x=1133, y=62, z=-54}
+[18Jul2025 22:43:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Summoned new Fireball]
+[18Jul2025 22:44:03.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LennoxZ: Gave 1 [Villager Hat] to LennoxZ]
