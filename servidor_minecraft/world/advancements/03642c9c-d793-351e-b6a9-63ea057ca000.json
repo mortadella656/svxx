@@ -6040,9 +6040,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 04:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-18 04:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-18 04:00:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-07-18 03:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-18 04:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-18 04:13:58 +0000"
     },
     "done": true
   },
