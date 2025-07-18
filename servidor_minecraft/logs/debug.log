@@ -9047,3 +9047,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jul2025 21:04:31.136] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [18Jul2025 21:06:40.557] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.NeoForgeEventHandler@5c04afa2 for service interface com.blamejared.clumps.platform.IEventHelper
 [18Jul2025 21:06:40.558] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.NeoForgePlatformHelper@6eb1538f for service interface com.blamejared.clumps.platform.IPlatformHelper
+[18Jul2025 21:09:31.127] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 21:14:31.123] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
