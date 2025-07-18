@@ -528,3 +528,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jul2025 04:13:51.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1162, y=53, z=613} BlockPos{x=1162, y=52, z=613}
 [18Jul2025 04:13:57.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1174, y=54, z=620} BlockPos{x=1173, y=53, z=622}
 [18Jul2025 04:13:57.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1174, y=54, z=620} BlockPos{x=1173, y=53, z=622}
+[18Jul2025 04:17:35.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ has made the advancement [Voluntary Exile]

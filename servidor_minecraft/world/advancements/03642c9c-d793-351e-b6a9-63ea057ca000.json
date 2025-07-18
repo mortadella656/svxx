@@ -429,6 +429,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-07-10 05:37:44 +0000",
+      "minecraft:pillager": "2025-07-18 04:17:35 +0000",
       "minecraft:skeleton": "2025-07-09 02:59:50 +0000",
       "minecraft:zombified_piglin": "2025-07-11 06:24:46 +0000",
       "minecraft:wither_skeleton": "2025-07-10 05:36:21 +0000",
@@ -3315,7 +3316,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-07-10 04:48:04 +0000"
+      "sugar_cane": "2025-07-10 04:48:04 +0000",
+      "kelp": "2025-07-18 04:16:52 +0000"
     },
     "done": false
   },
@@ -6040,9 +6042,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-18 04:17:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 04:00:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-18 04:19:54 +0000"
     },
     "done": true
   },
@@ -6073,6 +6087,18 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-07-18 04:13:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-18 04:19:54 +0000"
     },
     "done": true
   },
