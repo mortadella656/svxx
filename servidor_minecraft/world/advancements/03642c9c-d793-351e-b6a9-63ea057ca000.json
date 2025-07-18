@@ -6102,6 +6102,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:copiable_mystery": {
+    "criteria": {
+      "0": "2025-07-18 04:36:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 03:49:06 +0000"
