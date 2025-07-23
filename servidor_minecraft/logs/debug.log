@@ -9129,3 +9129,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jul2025 01:03:16.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! 8.90018862795398,-1.7900219318844819,5.659160868762626
 [23Jul2025 01:06:39.483] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [23Jul2025 01:11:39.480] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 01:13:41.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ lost connection: Disconnected
+[23Jul2025 01:13:41.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LennoxZ left the game
+[23Jul2025 01:14:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Jul2025 01:14:24.751] [Server thread/INFO] [veinminer/]: [32m[Vein Miner] Shutting down Veinminer thread pool[0m
+[23Jul2025 01:14:24.752] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[23Jul2025 01:14:24.753] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[23Jul2025 01:14:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jul2025 01:14:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jul2025 01:14:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jul2025 01:14:24.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jul2025 01:14:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jul2025 01:14:24.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jul2025 01:14:24.795] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 01:14:24.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jul2025 01:14:24.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jul2025 01:14:24.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jul2025 01:14:24.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Jul2025 01:14:24.800] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[23Jul2025 01:14:24.800] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[23Jul2025 01:14:24.807] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[23Jul2025 01:14:24.807] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[23Jul2025 01:14:24.808] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[23Jul2025 01:14:24.808] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[23Jul2025 01:14:24.810] [Server thread/INFO] [Framework/]: Unloading server configs...
+[23Jul2025 01:14:24.811] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/svxx/servidor_minecraft/config/goblintraders-entities.toml
+[23Jul2025 01:14:24.811] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[23Jul2025 01:14:24.812] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[23Jul2025 01:14:24.812] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[23Jul2025 01:14:24.812] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[23Jul2025 01:14:24.813] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[23Jul2025 01:14:24.814] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config universalenchants-server.toml
