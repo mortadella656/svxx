@@ -20,5 +20,6 @@
   "block.minecraft.gold_ore",
   "block.minecraft.emerald_ore",
   "block.create.zinc_ore",
-  "block.create.deepslate_zinc_ore"
+  "block.create.deepslate_zinc_ore",
+  "block.minecraft.andesite"
 ]

@@ -439,6 +439,7 @@
       "minecraft:cave_spider": "2025-07-10 05:57:37 +0000",
       "minecraft:piglin": "2025-07-11 06:07:09 +0000",
       "minecraft:stray": "2025-07-10 06:59:25 +0000",
+      "minecraft:enderman": "2025-07-22 23:32:33 +0000",
       "minecraft:magma_cube": "2025-07-11 06:06:27 +0000",
       "minecraft:spider": "2025-07-09 04:42:52 +0000",
       "minecraft:piglin_brute": "2025-07-11 06:05:48 +0000",
@@ -6387,18 +6388,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
@@ -6411,51 +6400,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
     },
     "done": true
   },
@@ -6483,39 +6430,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/palettes/scorchia": {
-    "criteria": {
-      "has_item": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
     },
     "done": true
   },
@@ -6525,111 +6442,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2025-07-18 22:29:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 21:29:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-07-18 21:26:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-07-18 21:31:53 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-18 21:31:53 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
     },
     "done": true
   },
@@ -6642,18 +6457,6 @@
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 21:29:44 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
     },
     "done": true
   },
@@ -6681,27 +6484,57 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+      "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+      "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+      "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
     "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+      "has_goddess_statue": "2025-07-18 21:26:37 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-18 21:26:37 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-18 21:26:37 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-18 21:26:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 21:29:44 +0000"
     },
     "done": true
   },
@@ -6711,9 +6544,183 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+  "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
-      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+      "has_onion": "2025-07-18 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-18 21:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 21:31:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-18 21:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-18 22:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-18 22:17:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-18 22:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-18 22:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-07-18 22:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-07-18 22:29:35 +0000"
     },
     "done": true
   },
@@ -6729,9 +6736,117 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+  "toolbelt:recipes/tools/pouch": {
     "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
+      "has_the_recipe": "2025-07-18 23:43:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-18 23:49:24 +0000"
     },
     "done": true
   },
@@ -6771,78 +6886,6 @@
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-07-18 21:26:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-07-18 22:23:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-07-18 21:26:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-07-18 22:17:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2025-07-18 22:29:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
-    },
-    "done": true
-  },
-  "toolbelt:recipes/tools/pouch": {
-    "criteria": {
-      "has_the_recipe": "2025-07-18 23:43:03 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 23:49:24 +0000"
@@ -6852,24 +6895,6 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-07-18 21:17:23 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-07-18 22:17:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-07-18 21:58:18 +0000"
     },
     "done": true
   },
@@ -6885,27 +6910,333 @@
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_goddess_statue": "2025-07-18 21:26:37 +0000"
+      "lava_bucket": "2025-07-19 00:12:13 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "create:belt": {
     "criteria": {
-      "has_onion": "2025-07-18 21:29:44 +0000"
+      "0": "2025-07-19 00:17:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-07-18 22:23:00 +0000"
+      "has_pumpkin": "2025-07-22 21:47:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz_from_blasting": {
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
-      "has_nether_quartz_ore": "2025-07-18 22:17:26 +0000"
+      "has_sweet_berries": "2025-07-22 21:47:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-22 21:47:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-07-22 22:03:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-07-22 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-07-22 22:17:09 +0000"
+    },
+    "done": true
+  },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2025-07-22 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-07-22 22:27:38 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-07-22 22:27:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-22 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-07-22 22:57:47 +0000"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-07-22 22:59:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-07-22 22:59:11 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-07-22 23:28:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_disenchantment": {
+    "criteria": {
+      "has_recipe": "2025-07-22 23:30:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_cross": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_tombstone": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_simple": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble_slab": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_normal": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble_stairs": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_subaraki_grave": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_original": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble_wall": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/strange_tablet": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-07-22 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_repairing": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_recycling": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_scribe": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_magic_impregnation": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_oblivion": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/strange_scroll": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_soulbound": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 23:31:41 +0000"
     },
     "done": true
   },
