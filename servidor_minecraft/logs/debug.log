@@ -9090,3 +9090,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jul2025 23:57:05.362] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.NeoForgePlatformHelper@2346eb55 for service interface com.blamejared.clumps.platform.IPlatformHelper
 [22Jul2025 23:58:00.438] [Server thread/DEBUG] [mixin/]: Mixing CraftingInputMixin from map_atlases-common.mixins.json into net.minecraft.world.item.crafting.CraftingInput
 [22Jul2025 23:58:00.438] [Server thread/DEBUG] [mixin/]: map_atlases-common.mixins.json:CraftingInputMixin from mod map_atlases: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[23Jul2025 00:01:39.685] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:06:39.501] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:06:53.456] [Server thread/DEBUG] [mixin/]: Mixing MixinRaid from paraglider.mixins.json into net.minecraft.world.entity.raid.Raid
+[23Jul2025 00:06:53.488] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[23Jul2025 00:06:53.488] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[23Jul2025 00:06:53.488] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
