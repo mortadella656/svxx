@@ -9096,3 +9096,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jul2025 00:06:53.488] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
 [23Jul2025 00:06:53.488] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
 [23Jul2025 00:06:53.488] [Server thread/DEBUG] [mixin/]: paraglider.mixins.json:MixinRaid from mod paraglider->@Inject::paraglider$awardVessel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[23Jul2025 00:11:39.502] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:16:39.488] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:18:25.771] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1106, y=65, z=-18}) doesn't have enough leaves around top most log
+[23Jul2025 00:18:25.771] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1106, y=65, z=-18}) doesn't have enough leaves around top most log
+[23Jul2025 00:18:30.392] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1106, y=65, z=-18}) doesn't have enough leaves around top most log
+[23Jul2025 00:18:30.392] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1106, y=65, z=-18}) doesn't have enough leaves around top most log
+[23Jul2025 00:18:53.504] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1106, y=65, z=-8}) doesn't have enough leaves around top most log
+[23Jul2025 00:18:53.504] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1106, y=65, z=-8}) doesn't have enough leaves around top most log
+[23Jul2025 00:19:10.038] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1109, y=65, z=-15}) doesn't have enough leaves around top most log
+[23Jul2025 00:19:10.039] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1109, y=65, z=-15}) doesn't have enough leaves around top most log
+[23Jul2025 00:19:34.747] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1099, y=65, z=-8}) doesn't have enough leaves around top most log
+[23Jul2025 00:19:34.748] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1099, y=65, z=-8}) doesn't have enough leaves around top most log
+[23Jul2025 00:19:40.838] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1099, y=65, z=-17}) doesn't have enough leaves around top most log
+[23Jul2025 00:19:40.838] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1099, y=65, z=-17}) doesn't have enough leaves around top most log
+[23Jul2025 00:19:58.054] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1104, y=65, z=-18}) doesn't have enough leaves around top most log
+[23Jul2025 00:19:58.056] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1104, y=65, z=-18}) doesn't have enough leaves around top most log
+[23Jul2025 00:20:10.449] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1102, y=65, z=-18}) doesn't have enough leaves around top most log
+[23Jul2025 00:20:10.451] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1102, y=65, z=-18}) doesn't have enough leaves around top most log
+[23Jul2025 00:20:13.087] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1103, y=65, z=-12}) doesn't have enough leaves around top most log
+[23Jul2025 00:20:13.089] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1103, y=65, z=-12}) doesn't have enough leaves around top most log
+[23Jul2025 00:21:39.486] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:26:39.483] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:29:21.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LennoxZ moved too quickly! -7.633960579080053,-5.141711807552454,-4.11386131555561
+[23Jul2025 00:31:39.485] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:36:39.483] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:41:39.481] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
