@@ -9122,3 +9122,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jul2025 00:31:39.485] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [23Jul2025 00:36:39.483] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [23Jul2025 00:41:39.481] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:46:39.482] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Jul2025 00:51:39.481] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
